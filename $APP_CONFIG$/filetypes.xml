@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="Hash" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping ext="tml" type="PLAIN_TEXT" />
+      <mapping pattern="Thorfile" type="Ruby" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="6" />
+  </component>
+</application>
