@@ -72,6 +72,11 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/cpp_theme" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/workspace/cpp_theme" />
   </component>
   <component name="RecentTaskRepositories">
