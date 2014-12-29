@@ -7,7 +7,7 @@
     <option name="autoSyncFiles" value="true" />
     <option name="autoSaveFiles" value="true" />
     <option name="autoSaveIfInactive" value="true" />
-    <option name="inactiveTimeout" value="5" />
+    <option name="inactiveTimeout" value="2" />
     <option name="useSafeWrite" value="true" />
     <option name="useDefaultBrowser" value="true" />
     <option name="confirmExtractFiles" value="true" />
