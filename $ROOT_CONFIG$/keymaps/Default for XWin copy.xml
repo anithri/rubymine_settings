@@ -6,6 +6,9 @@
   <action id="MoveLineUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt OPEN_BRACKET" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt CLOSE_BRACKET" />
   </action>
