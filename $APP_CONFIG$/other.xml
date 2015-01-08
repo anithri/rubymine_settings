@@ -59,6 +59,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/4winds/lookup_reader" />
         <option value="$USER_HOME$/4winds/lookup_provider" />
         <option value="$USER_HOME$/workspace/gotham" />
@@ -75,12 +76,7 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/4winds/lookup_reader" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/4winds/lookup_reader" />
+    <option name="lastPath" value="$USER_HOME$/4winds/brigade" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
