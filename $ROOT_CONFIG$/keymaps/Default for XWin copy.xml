@@ -1,4 +1,17 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="control alt BACK_SPACE" />
+  </action>
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt OPEN_BRACKET" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt CLOSE_BRACKET" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
@@ -13,8 +26,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt UP" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="shift BACK_QUOTE" />
   </action>
 </keymap>
