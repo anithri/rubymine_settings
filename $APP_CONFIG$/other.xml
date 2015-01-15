@@ -148,8 +148,8 @@
             <item index="1" class="java.lang.String" itemvalue="CardNine Coerce" />
             <item index="2" class="java.lang.String" itemvalue="CardNine Class" />
             <item index="3" class="java.lang.String" itemvalue="TestUnit Test Template" />
-            <item index="4" class="java.lang.String" itemvalue="Ruby Class Template" />
-            <item index="5" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="4" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="5" class="java.lang.String" itemvalue="Ruby Class Template" />
           </list>
         </value>
       </option>
