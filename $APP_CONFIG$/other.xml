@@ -59,6 +59,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/cpp_nav" />
+        <option value="$USER_HOME$/workspace/door_bell" />
         <option value="$USER_HOME$/workspace/brigade" />
         <option value="$USER_HOME$/workspace/canary" />
         <option value="$USER_HOME$/workspace/gotham" />
@@ -75,7 +77,7 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/brigade" />
+    <option name="lastPath" value="$USER_HOME$/workspace/cpp_nav" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
