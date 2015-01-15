@@ -59,6 +59,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/canary" />
         <option value="$USER_HOME$/workspace/brigade" />
         <option value="$USER_HOME$/workspace/gotham" />
         <option value="$USER_HOME$/workspace/card_nine" />
@@ -74,7 +75,7 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/brigade" />
+    <option name="lastPath" value="$USER_HOME$/workspace/canary" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
@@ -142,11 +143,13 @@
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="4">
+          <list size="6">
             <item index="0" class="java.lang.String" itemvalue="Erb File.html" />
-            <item index="1" class="java.lang.String" itemvalue="TestUnit Test Template" />
-            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
-            <item index="3" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="1" class="java.lang.String" itemvalue="CardNine Coerce" />
+            <item index="2" class="java.lang.String" itemvalue="CardNine Class" />
+            <item index="3" class="java.lang.String" itemvalue="TestUnit Test Template" />
+            <item index="4" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="5" class="java.lang.String" itemvalue="RSpec Test Template" />
           </list>
         </value>
       </option>
