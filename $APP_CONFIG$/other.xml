@@ -81,6 +81,7 @@
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/workspace/brigade" />
+        <option value="$USER_HOME$/workspace/eos" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/workspace/eos" />
