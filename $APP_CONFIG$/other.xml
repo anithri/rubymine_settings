@@ -81,7 +81,6 @@
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/workspace/brigade" />
-        <option value="$USER_HOME$/workspace/door_bell" />
         <option value="$USER_HOME$/workspace/cpp_nav" />
       </list>
     </option>
