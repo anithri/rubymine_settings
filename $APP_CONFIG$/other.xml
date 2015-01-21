@@ -59,10 +59,10 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/workspace/eos" />
         <option value="$USER_HOME$/4winds/eos" />
         <option value="$USER_HOME$/4winds/blueprint" />
-        <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/4winds/lookup_reader" />
         <option value="$USER_HOME$/4winds/lookup_provider" />
@@ -82,10 +82,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/workspace/eos" />
+        <option value="$USER_HOME$/4winds/brigade" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/eos" />
+    <option name="lastPath" value="$USER_HOME$/4winds/brigade" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
