@@ -59,6 +59,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/eos" />
         <option value="$USER_HOME$/4winds/eos" />
         <option value="$USER_HOME$/4winds/blueprint" />
         <option value="$USER_HOME$/4winds/brigade" />
@@ -79,7 +80,12 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/4winds/eos" />
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/eos" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/eos" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
@@ -115,6 +121,12 @@
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bcleanme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="0" />
+    </pattern>
   </component>
   <component name="UsageViewSettings">
     <option name="expanded" value="true" />
@@ -141,11 +153,13 @@
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="4">
+          <list size="6">
             <item index="0" class="java.lang.String" itemvalue="Erb File.html" />
-            <item index="1" class="java.lang.String" itemvalue="TestUnit Test Template" />
-            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
-            <item index="3" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="1" class="java.lang.String" itemvalue="CardNine Coerce" />
+            <item index="2" class="java.lang.String" itemvalue="CardNine Class" />
+            <item index="3" class="java.lang.String" itemvalue="TestUnit Test Template" />
+            <item index="4" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="5" class="java.lang.String" itemvalue="Ruby Class Template" />
           </list>
         </value>
       </option>
