@@ -4,5 +4,6 @@
     <toolWindow group="Web Deployment: Remote Host" />
     <toolWindow group="Vcs Messages" />
     <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Database Navigator" />
   </component>
 </application>
