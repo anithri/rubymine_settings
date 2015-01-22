@@ -3,12 +3,12 @@
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
       <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />

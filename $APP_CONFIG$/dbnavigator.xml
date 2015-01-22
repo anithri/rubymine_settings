@@ -288,7 +288,7 @@
         <focus-result value="false" />
       </statement-execution>
       <statement-execution>
-        <execution-timeout value="30" />
+        <execution-timeout value="20" />
         <debug-execution-timeout value="600" />
       </statement-execution>
       <compiler>
