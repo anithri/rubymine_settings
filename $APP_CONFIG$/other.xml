@@ -149,6 +149,9 @@
       <debugger id="ObjectiveC">
         <configuration />
       </debugger>
+      <debugger id="db-program">
+        <configuration />
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
