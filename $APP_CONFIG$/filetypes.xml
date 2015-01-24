@@ -17,7 +17,8 @@
       <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping pattern="Thorfile" type="Ruby" />
+      <mapping pattern="git_watcher" type="Ruby" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="17" />
+    <setting name="fileTypeChangedCounter" value="18" />
   </component>
 </application>
