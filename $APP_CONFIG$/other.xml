@@ -64,6 +64,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/git-watch" />
         <option value="$USER_HOME$/workspace/git_watcher" />
         <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/4winds/door_bell" />
@@ -87,12 +88,7 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/workspace/git_watcher" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/git_watcher" />
+    <option name="lastPath" value="$USER_HOME$/workspace/git-watch" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
