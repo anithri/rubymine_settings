@@ -61,16 +61,10 @@
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="text-editor" />
-      </map>
-    </option>
-  </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/watch-git" />
         <option value="$USER_HOME$/workspace/git-watch" />
         <option value="$USER_HOME$/workspace/git_watcher" />
         <option value="$USER_HOME$/4winds/brigade" />
@@ -95,12 +89,7 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/workspace/git-watch" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/git-watch" />
+    <option name="lastPath" value="$USER_HOME$/workspace/watch-git" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
