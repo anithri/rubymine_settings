@@ -152,8 +152,8 @@
           <list size="4">
             <item index="0" class="java.lang.String" itemvalue="Erb File.html" />
             <item index="1" class="java.lang.String" itemvalue="TestUnit Test Template" />
-            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
-            <item index="3" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="2" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="3" class="java.lang.String" itemvalue="RSpec Test Template" />
           </list>
         </value>
       </option>
