@@ -51,33 +51,19 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DBNavigator.Application.Settings">
-    <enable-debug-mode value="false" />
-    <enable-developer-mode value="false" />
-    <show-plugin-conflict-dialog value="false" />
-  </component>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="text-editor" />
-      </map>
-    </option>
-  </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/workspace/watch-git" />
-        <option value="$USER_HOME$/workspace/git-watch" />
-        <option value="$USER_HOME$/workspace/git_watcher" />
         <option value="$USER_HOME$/4winds/brigade" />
+        <option value="$USER_HOME$/4winds/ringer" />
         <option value="$USER_HOME$/4winds/door_bell" />
-        <option value="$USER_HOME$/4winds/eos" />
         <option value="$USER_HOME$/workspace/eos" />
+        <option value="$USER_HOME$/4winds/eos" />
         <option value="$USER_HOME$/4winds/blueprint" />
         <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/4winds/lookup_reader" />
@@ -98,10 +84,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/workspace/watch-git" />
+        <option value="$USER_HOME$/4winds/brigade" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/watch-git" />
+    <option name="lastPath" value="$USER_HOME$/4winds/brigade" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
@@ -137,12 +123,6 @@
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bcleanme\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
   </component>
   <component name="UsageViewSettings">
     <option name="expanded" value="true" />
@@ -158,9 +138,6 @@
       <debugger id="ObjectiveC">
         <configuration />
       </debugger>
-      <debugger id="db-program">
-        <configuration />
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
@@ -172,13 +149,11 @@
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="6">
+          <list size="4">
             <item index="0" class="java.lang.String" itemvalue="Erb File.html" />
-            <item index="1" class="java.lang.String" itemvalue="CardNine Coerce" />
-            <item index="2" class="java.lang.String" itemvalue="CardNine Class" />
-            <item index="3" class="java.lang.String" itemvalue="TestUnit Test Template" />
-            <item index="4" class="java.lang.String" itemvalue="RSpec Test Template" />
-            <item index="5" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="1" class="java.lang.String" itemvalue="TestUnit Test Template" />
+            <item index="2" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="3" class="java.lang.String" itemvalue="RSpec Test Template" />
           </list>
         </value>
       </option>
