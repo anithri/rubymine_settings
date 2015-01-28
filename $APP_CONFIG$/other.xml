@@ -59,9 +59,9 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/4winds/blueprint" />
         <option value="$USER_HOME$/4winds/door_bell" />
         <option value="$USER_HOME$/4winds/cpp_nav" />
-        <option value="$USER_HOME$/4winds/blueprint" />
         <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/4winds/four_winds" />
         <option value="$USER_HOME$/4winds/ringer" />
@@ -87,10 +87,9 @@
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/4winds/blueprint" />
-        <option value="$USER_HOME$/4winds/door_bell" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/4winds/door_bell" />
+    <option name="lastPath" value="$USER_HOME$/4winds/blueprint" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
