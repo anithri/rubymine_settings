@@ -3,40 +3,6 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS">
-      <value>
-        <DBN-PSQL>
-          <case-options enabled="false">
-            <option name="KEYWORD_CASE" value="lower" />
-            <option name="FUNCTION_CASE" value="lower" />
-            <option name="PARAMETER_CASE" value="lower" />
-            <option name="DATATYPE_CASE" value="lower" />
-            <option name="OBJECT_CASE" value="preserve" />
-          </case-options>
-          <formatting-settings enabled="false" />
-        </DBN-PSQL>
-        <DBN-SQL>
-          <case-options enabled="false">
-            <option name="KEYWORD_CASE" value="lower" />
-            <option name="FUNCTION_CASE" value="lower" />
-            <option name="PARAMETER_CASE" value="lower" />
-            <option name="DATATYPE_CASE" value="lower" />
-            <option name="OBJECT_CASE" value="preserve" />
-          </case-options>
-          <formatting-settings enabled="false">
-            <option name="STATEMENT_SPACING" value="one_line" />
-            <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-            <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-          </formatting-settings>
-        </DBN-SQL>
-        <XML>
-          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-        </XML>
-      </value>
-    </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (3)" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -85,11 +51,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DBNavigator.Application.Settings">
-    <enable-debug-mode value="false" />
-    <enable-developer-mode value="false" />
-    <show-plugin-conflict-dialog value="false" />
-  </component>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
@@ -98,12 +59,11 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/workspace/vigilante" />
-        <option value="/tmp/vigilante.gemspec0.tmp" />
-        <option value="$USER_HOME$/4winds/door_bell" />
+        <option value="$USER_HOME$/4winds/purchasing" />
         <option value="$USER_HOME$/4winds/blueprint" />
-        <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/4winds/four_winds" />
+        <option value="$USER_HOME$/4winds/brigade" />
+        <option value="$USER_HOME$/4winds/door_bell" />
         <option value="$USER_HOME$/4winds/cpp_nav" />
         <option value="$USER_HOME$/4winds/ringer" />
         <option value="$USER_HOME$/workspace/eos" />
@@ -127,10 +87,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/workspace/vigilante" />
+        <option value="$USER_HOME$/4winds/purchasing" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/vigilante" />
+    <option name="lastPath" value="$USER_HOME$/4winds/purchasing" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
@@ -166,12 +126,6 @@
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bcleanme\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
   </component>
   <component name="UsageViewSettings">
     <option name="expanded" value="true" />
@@ -187,9 +141,6 @@
       <debugger id="ObjectiveC">
         <configuration />
       </debugger>
-      <debugger id="db-program">
-        <configuration />
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
@@ -201,13 +152,11 @@
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="6">
+          <list size="4">
             <item index="0" class="java.lang.String" itemvalue="Erb File.html" />
-            <item index="1" class="java.lang.String" itemvalue="CardNine Coerce" />
-            <item index="2" class="java.lang.String" itemvalue="CardNine Class" />
-            <item index="3" class="java.lang.String" itemvalue="TestUnit Test Template" />
-            <item index="4" class="java.lang.String" itemvalue="RSpec Test Template" />
-            <item index="5" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="1" class="java.lang.String" itemvalue="TestUnit Test Template" />
+            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="3" class="java.lang.String" itemvalue="Ruby Class Template" />
           </list>
         </value>
       </option>
