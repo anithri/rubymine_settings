@@ -64,6 +64,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/vigilante" />
         <option value="$USER_HOME$/4winds/purchasing" />
         <option value="$USER_HOME$/4winds/blueprint" />
         <option value="$USER_HOME$/4winds/four_winds" />
@@ -90,12 +91,7 @@
         <option value="$USER_HOME$/gotham" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/4winds/purchasing" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/4winds/purchasing" />
+    <option name="lastPath" value="$USER_HOME$/workspace/vigilante" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
@@ -150,6 +146,9 @@
         <configuration />
       </debugger>
       <debugger id="ObjectiveC">
+        <configuration />
+      </debugger>
+      <debugger id="db-program">
         <configuration />
       </debugger>
       <debugger id="javascript">

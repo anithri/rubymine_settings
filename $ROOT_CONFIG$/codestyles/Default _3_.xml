@@ -1,4 +1,5 @@
 <code_scheme name="Default (3)">
+  <option name="RIGHT_MARGIN" value="80" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
