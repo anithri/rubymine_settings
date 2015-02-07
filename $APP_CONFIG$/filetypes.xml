@@ -20,7 +20,8 @@
       <mapping pattern="Thorfile" type="Ruby" />
       <mapping pattern="set-git-watch" type="Ruby" />
       <mapping pattern="git_watcher" type="Ruby" />
+      <mapping pattern="instructions" type="YAML" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="20" />
+    <setting name="fileTypeChangedCounter" value="21" />
   </component>
 </application>
