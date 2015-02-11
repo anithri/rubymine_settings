@@ -93,7 +93,8 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/4winds/brigade" />
+        <option value="$USER_HOME$/workspace/vigilante" />
+        <option value="$USER_HOME$/workspace/facets" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/workspace/facets" />
