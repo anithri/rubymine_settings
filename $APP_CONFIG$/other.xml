@@ -64,6 +64,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/vigilante" />
         <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/4winds/four_winds" />
@@ -95,6 +96,7 @@
         <option value="$USER_HOME$/4winds/brigade" />
       </list>
     </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/vigilante" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
@@ -149,6 +151,9 @@
         <configuration />
       </debugger>
       <debugger id="ObjectiveC">
+        <configuration />
+      </debugger>
+      <debugger id="db-program">
         <configuration />
       </debugger>
       <debugger id="javascript">
