@@ -59,8 +59,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/4winds/brigade" />
+        <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/4winds/four_winds" />
         <option value="$USER_HOME$/4winds/cpp_nav" />
         <option value="$USER_HOME$/4winds/door_bell" />
@@ -90,7 +90,7 @@
         <option value="$USER_HOME$/4winds/brigade" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/4winds/headwind" />
+    <option name="lastPath" value="$USER_HOME$/4winds/brigade" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
