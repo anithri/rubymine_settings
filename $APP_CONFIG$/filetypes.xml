@@ -3,11 +3,25 @@
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="git-watch" type="PLAIN_TEXT" />
       <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping pattern="Thorfile" type="Ruby" />
+      <mapping pattern="set-git-watch" type="Ruby" />
+      <mapping pattern="git_watcher" type="Ruby" />
+      <mapping pattern="instructions" type="YAML" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="7" />
+    <setting name="fileTypeChangedCounter" value="21" />
   </component>
 </application>
