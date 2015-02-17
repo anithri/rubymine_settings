@@ -86,6 +86,11 @@
         <option value="$USER_HOME$/workspace/dice" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/refine_my" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/workspace/refine_my" />
   </component>
   <component name="RecentTaskRepositories">
