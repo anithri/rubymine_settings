@@ -59,9 +59,9 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/workspace/refine_my" />
         <option value="$USER_HOME$/workspace/facets" />
-        <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/4winds/brigade" />
         <option value="$USER_HOME$/4winds/four_winds" />
         <option value="$USER_HOME$/4winds/cpp_nav" />
@@ -86,12 +86,7 @@
         <option value="$USER_HOME$/workspace/dice" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/workspace/refine_my" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/refine_my" />
+    <option name="lastPath" value="$USER_HOME$/4winds/headwind" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
