@@ -64,6 +64,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/4winds/blueprint" />
         <option value="$USER_HOME$/4winds/tunnel_logs" />
         <option value="$USER_HOME$/workspace/vigilante" />
         <option value="$USER_HOME$/workspace/facets" />
@@ -74,7 +75,6 @@
         <option value="$USER_HOME$/4winds/four_winds" />
         <option value="$USER_HOME$/4winds/cpp_nav" />
         <option value="$USER_HOME$/4winds/purchasing" />
-        <option value="$USER_HOME$/4winds/blueprint" />
         <option value="$USER_HOME$/4winds/ringer" />
         <option value="$USER_HOME$/workspace/eos" />
         <option value="$USER_HOME$/4winds/eos" />
@@ -91,7 +91,7 @@
         <option value="$USER_HOME$/workspace/cpp_css" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/4winds/tunnel_logs" />
+    <option name="lastPath" value="$USER_HOME$/4winds/blueprint" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">

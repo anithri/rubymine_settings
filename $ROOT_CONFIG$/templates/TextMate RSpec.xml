@@ -1,0 +1,10 @@
+<templateSet group="TextMate RSpec">
+  <template name="con" value="context '$VARIABLE_1$' do&#10;  $END$&#10;end" description="context" toReformat="true" toShortenFQNames="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="context" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="desc" value="describe '$VARIABLE_1$' do&#10;  $END$&#10;end" description="describe (Controller)" toReformat="true" toShortenFQNames="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
