@@ -86,6 +86,11 @@
         <option value="$USER_HOME$/workspace/paradise" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/4winds/tunnel_logs" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/4winds/tunnel_logs" />
   </component>
   <component name="RecentTaskRepositories">
