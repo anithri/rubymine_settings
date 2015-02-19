@@ -59,6 +59,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/4winds/tunnel_logs" />
         <option value="$USER_HOME$/4winds/headwind" />
         <option value="$USER_HOME$/4winds/door_bell" />
         <option value="$USER_HOME$/workspace/refine_my" />
@@ -83,10 +84,9 @@
         <option value="$USER_HOME$/workspace/CASinoApp-master" />
         <option value="$USER_HOME$/workspace/cpp_css" />
         <option value="$USER_HOME$/workspace/paradise" />
-        <option value="$USER_HOME$/workspace/dice" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/4winds/headwind" />
+    <option name="lastPath" value="$USER_HOME$/4winds/tunnel_logs" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
