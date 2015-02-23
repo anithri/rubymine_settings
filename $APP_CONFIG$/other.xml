@@ -91,6 +91,11 @@
         <option value="$USER_HOME$/workspace/cpp_css" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/para_dice" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/workspace/para_dice" />
   </component>
   <component name="RecentTaskRepositories">
