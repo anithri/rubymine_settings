@@ -64,8 +64,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/workspace/guard-rubytest" />
         <option value="$USER_HOME$/workspace/facets" />
+        <option value="$USER_HOME$/workspace/guard-rubytest" />
         <option value="$USER_HOME$/workspace/para_dice" />
         <option value="$USER_HOME$/workspace/vigilante" />
         <option value="$USER_HOME$/4winds/tunnel_logs" />
@@ -96,7 +96,7 @@
         <option value="$USER_HOME$/workspace/para_dice" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/guard-rubytest" />
+    <option name="lastPath" value="$USER_HOME$/workspace/facets" />
   </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
