@@ -4,4 +4,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ARE_LINE_NUMBERS_SHOWN" value="true" />
   </component>
+  <component name="RubyEditorOptions">
+    <option name="startInterpolationOnHash" value="true" />
+  </component>
 </application>
