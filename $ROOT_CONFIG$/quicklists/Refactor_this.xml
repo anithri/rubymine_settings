@@ -1,4 +1,4 @@
-<list display="Refactor this..." description="Ruby Refactorings" readonly="false">
+<list display="Refactor this..." description="Ruby Refactorings">
   <action id="RenameElement" />
   <action id="Move" />
   <action id="CopyElement" />

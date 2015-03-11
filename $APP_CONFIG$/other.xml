@@ -1,8 +1,4 @@
 <application>
-  <component name="BaseRefactoringSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -56,48 +52,6 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
-  <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
-    <ignored-resource url="http://www.w3.org/2000/svg" />
-  </component>
-  <component name="RecentDirectoryProjectsManager">
-    <option name="recentPaths">
-      <list>
-        <option value="$USER_HOME$/workspace/facets" />
-        <option value="$USER_HOME$/workspace/para_dice" />
-        <option value="$USER_HOME$/4winds/door_bell" />
-        <option value="$USER_HOME$/4winds/brigade" />
-        <option value="$USER_HOME$/4winds/purchasing" />
-        <option value="$USER_HOME$/workspace/guard-rubytest" />
-        <option value="$USER_HOME$/workspace/vigilante" />
-        <option value="$USER_HOME$/4winds/tunnel_logs" />
-        <option value="$USER_HOME$/4winds/headwind" />
-        <option value="$USER_HOME$/workspace/refine_my" />
-        <option value="$USER_HOME$/4winds/four_winds" />
-        <option value="$USER_HOME$/4winds/cpp_nav" />
-        <option value="$USER_HOME$/4winds/blueprint" />
-        <option value="$USER_HOME$/4winds/ringer" />
-        <option value="$USER_HOME$/workspace/eos" />
-        <option value="$USER_HOME$/4winds/eos" />
-        <option value="$USER_HOME$/4winds/lookup_reader" />
-        <option value="$USER_HOME$/4winds/lookup_provider" />
-        <option value="$USER_HOME$/workspace/gotham" />
-        <option value="$USER_HOME$/workspace/card_nine" />
-        <option value="$USER_HOME$/workspace/red_seven" />
-        <option value="$USER_HOME$/workspace/wonderland" />
-        <option value="$USER_HOME$/workspace/cpp_theme" />
-        <option value="$USER_HOME$/workspace/borrow" />
-        <option value="$USER_HOME$/workspace/CASinoApp-master" />
-      </list>
-    </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/workspace/facets" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/facets" />
-  </component>
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="github.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
@@ -115,33 +69,6 @@
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
-  </component>
-  <component name="TemplateSettings">
-    <defaultShortcut shortcut="TAB" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bcleanme\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
-  </component>
-  <component name="UsageViewSettings">
-    <option name="expanded" value="true" />
-    <option name="IS_EXPANDED" value="true" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
