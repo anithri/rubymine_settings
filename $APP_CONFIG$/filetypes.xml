@@ -11,6 +11,7 @@
       <mapping pattern="set-git-watch" type="Ruby" />
       <mapping pattern="Thorfile" type="Ruby" />
       <mapping pattern="git_watcher" type="Ruby" />
+      <mapping pattern="ping_listener" type="Ruby" />
       <mapping pattern="instructions" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
