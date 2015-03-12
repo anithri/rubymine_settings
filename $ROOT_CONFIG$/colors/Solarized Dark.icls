@@ -143,11 +143,6 @@
         <option name="FOREGROUND" value="ede6d3" />
       </value>
     </option>
-    <option name="JAVA_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-      </value>
-    </option>
     <option name="JAVA_NUMBER">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
