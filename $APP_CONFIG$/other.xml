@@ -53,13 +53,11 @@
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="RecentTaskRepositories">
-    <GitHub shared="false" url="http://github.com">
+    <GitHub shared="false" url="github.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password />
       <token>df93dfcedfc8dfcfdf9cdf9adfcbdfccdf9bdfcedfc8dfccdfc9df9adfcfdf93df9bdf9fdf98dfc9df9bdf9cdfccdf98df99dfccdf9bdfcedf9cdf99df9adfcedf9adf9fdfc8dfcbdf9adfc9df93df9d</token>
       <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
       <option name="repoAuthor" value="anithri" />
       <option name="repoName" value="paradise" />
       <option name="shouldFormatCommitMessage" value="false" />
@@ -68,30 +66,18 @@
       <option name="user" value="" />
       <username />
     </GitHub>
-    <Gitlab shared="false" url="http://gitlab.cppwind.local">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="currentProject">
-        <GitlabProject id="12" />
-      </option>
-      <password>dfc9dff9dfd3dfdddffbdfd9dfccdf87dfd9dfd2dffddfe9df93dfe4dfc5dfdedfecdfd2dfdadfe1</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username />
-    </Gitlab>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="4">
+          <list size="6">
             <item index="0" class="java.lang.String" itemvalue="Erb File.html" />
-            <item index="1" class="java.lang.String" itemvalue="TestUnit Test Template" />
-            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
-            <item index="3" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="1" class="java.lang.String" itemvalue="CardNine Coerce" />
+            <item index="2" class="java.lang.String" itemvalue="CardNine Class" />
+            <item index="3" class="java.lang.String" itemvalue="TestUnit Test Template" />
+            <item index="4" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="5" class="java.lang.String" itemvalue="Ruby Class Template" />
           </list>
         </value>
       </option>
