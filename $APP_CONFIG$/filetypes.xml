@@ -17,6 +17,7 @@
       <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping pattern="occurrence" type="PLAIN_TEXT" />
       <mapping pattern="git-watch" type="PLAIN_TEXT" />
+      <mapping pattern="probability" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping pattern="*rxls" type="Ruby" />
       <mapping pattern="set-git-watch" type="Ruby" />
