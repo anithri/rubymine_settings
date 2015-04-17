@@ -11,9 +11,9 @@
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping pattern="*rxls" type="Ruby" />
       <mapping pattern="set-git-watch" type="Ruby" />
-      <mapping pattern="Thorfile" type="Ruby" />
       <mapping pattern="git_watcher" type="Ruby" />
       <mapping pattern="ping_listener" type="Ruby" />
+      <mapping pattern="Thorfile" type="Ruby" />
       <mapping pattern="i3-rb_blocks" type="Ruby" />
       <mapping pattern="instructions" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
