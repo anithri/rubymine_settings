@@ -20,6 +20,7 @@
       <mapping pattern="git-watch" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
+      <mapping ext="html_haml" type="PLAIN_TEXT" />
       <mapping pattern="*rxls" type="Ruby" />
       <mapping pattern="set-git-watch" type="Ruby" />
       <mapping pattern="git_watcher" type="Ruby" />
