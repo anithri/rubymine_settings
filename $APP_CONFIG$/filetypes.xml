@@ -6,6 +6,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping pattern="occurrence" type="PLAIN_TEXT" />
+      <mapping pattern="gust" type="PLAIN_TEXT" />
       <mapping pattern="git-watch" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
