@@ -43,4 +43,14 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="wl" value="puts '#' * 30&#10;warn $END$.inspect&#10;puts '#' * 30" description="Warning loud" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="bc" value="##########################################&#10;# $END$ #&#10;##########################################" description="Block Comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
