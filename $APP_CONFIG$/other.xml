@@ -69,15 +69,15 @@
       <username />
     </GitHub>
     <Gitlab shared="false" url="http://gitlab.cppwind.local">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>Issue-{id} {summary}</commitMessageFormat>
       <option name="currentProject">
-        <GitlabProject id="8" />
+        <GitlabProject id="19" />
       </option>
       <password>dfc9dff9dfd3dfdddffbdfd9dfccdf87dfd9dfd2dffddfe9df93dfe4dfc5dfdedfecdfd2dfdadfe1</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
       <username />
