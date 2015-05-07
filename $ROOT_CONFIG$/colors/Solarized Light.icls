@@ -1,4 +1,4 @@
-<scheme name="Solarized Light" version="124" parent_scheme="Default">
+<scheme name="Solarized Light" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -71,18 +71,11 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ERRORS_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ff" />
-        <option name="ERROR_STRIPE_COLOR" value="ff" />
+        <option name="ERROR_STRIPE_COLOR" value="3763b0" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -105,7 +98,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ccceff" />
-        <option name="ERROR_STRIPE_COLOR" value="cccfff" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -234,7 +227,7 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="EFFECT_COLOR" value="808080" />
-        <option name="ERROR_STRIPE_COLOR" value="268bd2" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -256,14 +249,14 @@
       <value>
         <option name="FOREGROUND" value="73642" />
         <option name="BACKGROUND" value="ffdf80" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffcce5" />
-        <option name="ERROR_STRIPE_COLOR" value="ffcce5" />
+        <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
