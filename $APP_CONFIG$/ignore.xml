@@ -1,5 +1,5 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="true" donationShown="1.1" ignoredFileStatus="true" outerIgnoreRules="true" settingsFixed="true">
+  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" settingsFixed="true">
     <languages>
       <language id="Bazaar" ENABLE="true" NEW_FILE="true" />
       <language id="Chef" ENABLE="false" NEW_FILE="true" />
@@ -11,6 +11,7 @@
       <language id="JSHint" ENABLE="false" NEW_FILE="true" />
       <language id="Mercurial" ENABLE="true" NEW_FILE="true" />
       <language id="Monotone" ENABLE="true" NEW_FILE="true" />
+      <language id="Nodemon" ENABLE="false" NEW_FILE="true" />
       <language id="Npm" ENABLE="false" NEW_FILE="true" />
       <language id="Perforce" ENABLE="true" NEW_FILE="true" />
       <language id="Team Foundation" ENABLE="true" NEW_FILE="true" />
