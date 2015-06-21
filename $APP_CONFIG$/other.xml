@@ -53,15 +53,15 @@
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="RecentTaskRepositories">
-    <GitHub shared="false" url="http://github.com">
+    <GitHub shared="false" url="https://github.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password />
-      <token>df93dfcedfc8dfcfdf9cdf9adfcbdfccdf9bdfcedfc8dfccdfc9df9adfcfdf93df9bdf9fdf98dfc9df9bdf9cdfccdf98df99dfccdf9bdfcedf9cdf99df9adfcedf9adf9fdfc8dfcbdf9adfc9df93df9d</token>
+      <token>df9bdf99df9fdf9bdf9adf9adf9fdf9edf92df9adf93dfc9dfc8dfcfdf9adf93df92df92df9adf9fdf9fdfc9df9adf9adf9ddf98dfcedf93df9edf9adf99df9adf9fdf93df9fdf99dfcbdf9edf9bdf9a</token>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
       <option name="repoAuthor" value="anithri" />
-      <option name="repoName" value="paradise" />
+      <option name="repoName" value="game_night" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
@@ -82,6 +82,21 @@
       <option name="useProxy" value="false" />
       <username />
     </Gitlab>
+    <GitHub shared="false" url="http://github.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df93dfcedfc8dfcfdf9cdf9adfcbdfccdf9bdfcedfc8dfccdfc9df9adfcfdf93df9bdf9fdf98dfc9df9bdf9cdfccdf98df99dfccdf9bdfcedf9cdf99df9adfcedf9adf9fdfc8dfcbdf9adfc9df93df9d</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="anithri" />
+      <option name="repoName" value="paradise" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
