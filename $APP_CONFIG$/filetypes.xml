@@ -8,6 +8,7 @@
       <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping pattern="occurrence" type="PLAIN_TEXT" />
       <mapping pattern="gust" type="PLAIN_TEXT" />
+      <mapping pattern="fstab" type="PLAIN_TEXT" />
       <mapping pattern="git-watch" type="PLAIN_TEXT" />
       <mapping pattern="smbcredentials" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
