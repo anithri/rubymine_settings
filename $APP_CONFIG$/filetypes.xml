@@ -9,6 +9,7 @@
       <mapping pattern="occurrence" type="PLAIN_TEXT" />
       <mapping pattern="gust" type="PLAIN_TEXT" />
       <mapping pattern="git-watch" type="PLAIN_TEXT" />
+      <mapping pattern="smbcredentials" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping ext="html_haml" type="PLAIN_TEXT" />
