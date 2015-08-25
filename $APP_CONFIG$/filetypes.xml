@@ -8,6 +8,7 @@
       <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping pattern="git-watch" type="PLAIN_TEXT" />
       <mapping pattern="_user_navigation_links" type="PLAIN_TEXT" />
+      <mapping pattern="replacement_logstash-forwarder" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="occurrence" type="PLAIN_TEXT" />
       <mapping pattern="gust" type="PLAIN_TEXT" />
