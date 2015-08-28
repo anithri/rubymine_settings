@@ -10,6 +10,7 @@
       <mapping pattern="_user_navigation_links" type="PLAIN_TEXT" />
       <mapping pattern="replacement_logstash-forwarder" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="nginx-default-site" type="PLAIN_TEXT" />
       <mapping pattern="occurrence" type="PLAIN_TEXT" />
       <mapping pattern="gust" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
