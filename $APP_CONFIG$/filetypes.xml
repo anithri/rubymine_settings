@@ -2,26 +2,17 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="backup-postgres" type="Bash" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="_user_navigation_links" type="PLAIN_TEXT" />
-      <mapping pattern="git-watch" type="PLAIN_TEXT" />
       <mapping pattern="logrotate_postgres" type="PLAIN_TEXT" />
       <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping pattern="occurrence" type="PLAIN_TEXT" />
       <mapping pattern="nginx-default-site" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="replacement_logstash-forwarder" type="PLAIN_TEXT" />
       <mapping pattern="gust" type="PLAIN_TEXT" />
+      <mapping pattern="git-watch" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
@@ -34,7 +25,16 @@
       <mapping pattern="i3-rb_blocks" type="Ruby" />
       <mapping pattern="thing?id=*" type="XML" />
       <mapping pattern="instructions" type="YAML" />
-      <mapping pattern="backup-postgres" type="Bash" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
