@@ -17,10 +17,10 @@
     <variable name="METHOD" expression="" defaultValue="&quot;one_more_than&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="sdc" value="subject { described_class.new($END$) }" description="subject {described_class.new()}" toReformat="false" toShortenFQNames="true">
+  <template name="sdc" value="subject { described_class.new($END$) }" description="subject {described_class.new()}" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="iixha" value="it { is_expected.to have_attributes($END$) }&#10;" description="it is_expected.to have_attributes" toReformat="false" toShortenFQNames="true">
+  <template name="iixha" value="it { is_expected.to have_attributes($END$) }&#10;" description="it is_expected.to have_attributes" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
 </templateSet>
