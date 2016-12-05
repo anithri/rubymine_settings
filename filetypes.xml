@@ -20,6 +20,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping ext="other" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="thing?id=*" type="XML" />
       <mapping pattern="instructions" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
