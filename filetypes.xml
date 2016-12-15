@@ -8,14 +8,15 @@
       <mapping pattern="gust" type="PLAIN_TEXT" />
       <mapping pattern="_user_navigation_links" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="git-watch" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="server,js" type="PLAIN_TEXT" />
       <mapping pattern="replacement_logstash-forwarder" type="PLAIN_TEXT" />
+      <mapping pattern="Hash" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
       <mapping pattern="logrotate_postgres" type="PLAIN_TEXT" />
+      <mapping pattern="site" type="PLAIN_TEXT" />
       <mapping ext="html_haml" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
