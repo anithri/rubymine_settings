@@ -2,24 +2,33 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="nginx-default-site" type="PLAIN_TEXT" />
-      <mapping pattern="occurrence" type="PLAIN_TEXT" />
-      <mapping pattern="report_orig" type="PLAIN_TEXT" />
-      <mapping pattern="gust" type="PLAIN_TEXT" />
-      <mapping pattern="_user_navigation_links" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="backup-postgres" type="Bash" />
+      <mapping pattern="org_file" type="Bash" />
       <mapping pattern="Hash" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="git-watch" type="PLAIN_TEXT" />
-      <mapping pattern="server,js" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="_user_navigation_links" type="PLAIN_TEXT" />
       <mapping pattern="replacement_logstash-forwarder" type="PLAIN_TEXT" />
       <mapping pattern="probability" type="PLAIN_TEXT" />
+      <mapping pattern="server,js" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="gust" type="PLAIN_TEXT" />
+      <mapping pattern="report_orig" type="PLAIN_TEXT" />
+      <mapping pattern="occurrence" type="PLAIN_TEXT" />
+      <mapping pattern="nginx-default-site" type="PLAIN_TEXT" />
+      <mapping pattern="git-watch" type="PLAIN_TEXT" />
       <mapping pattern="logrotate_postgres" type="PLAIN_TEXT" />
       <mapping ext="html_haml" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping ext="other" type="PLAIN_TEXT" />
+      <mapping pattern="*rxls" type="Ruby" />
+      <mapping pattern=".sfn" type="Ruby" />
+      <mapping pattern="ping_listener" type="Ruby" />
+      <mapping pattern="git_watcher" type="Ruby" />
+      <mapping pattern="Thorfile" type="Ruby" />
+      <mapping pattern="set-git-watch" type="Ruby" />
+      <mapping pattern="i3-rb_blocks" type="Ruby" />
       <mapping pattern="thing?id=*" type="XML" />
       <mapping pattern="instructions" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
@@ -32,14 +41,6 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="*rxls" type="Ruby" />
-      <mapping pattern="Thorfile" type="Ruby" />
-      <mapping pattern="backup-postgres" type="Bash" />
-      <mapping pattern="git_watcher" type="Ruby" />
-      <mapping pattern="i3-rb_blocks" type="Ruby" />
-      <mapping pattern="org_file" type="Bash" />
-      <mapping pattern="ping_listener" type="Ruby" />
-      <mapping pattern="set-git-watch" type="Ruby" />
     </extensionMap>
   </component>
 </application>
