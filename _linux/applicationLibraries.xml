@@ -66,6 +66,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/actionmailer-4.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/actionmailer-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/actionmailer-4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.1.8, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/actionmailer-4.1.8/lib" />
@@ -296,6 +304,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/actionpack-4.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/actionpack-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/actionpack-4.0.2/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.1.8, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -1220,6 +1236,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/activemodel-4.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activemodel-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activemodel-4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.1.8, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/activemodel-4.1.8/lib" />
@@ -1460,6 +1484,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/activerecord-4.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activerecord-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activerecord-4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v4.1.8, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/activerecord-4.1.8/lib" />
@@ -1684,6 +1716,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/activerecord-deprecated_finders-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-deprecated_finders (v1.0.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activerecord-deprecated_finders-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activerecord-deprecated_finders-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activeresource (v3.2.12, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/activeresource-3.2.12/lib" />
@@ -1738,6 +1778,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/activesupport-4.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activesupport-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/activesupport-4.0.2/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.1.8, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -2680,6 +2728,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/arel-4.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/arel-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/arel-4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v5.0.1.20140414130214, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/arel-5.0.1.20140414130214/lib" />
@@ -3176,6 +3232,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/awesome_print-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="awesome_print (v1.2.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/awesome_print-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/awesome_print-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="awesome_print (v1.6.1, RVM: ruby-2.2.3 [brigade]) [gem]">
@@ -5604,6 +5668,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/bootstrap-sass-3.2.0.2/templates" />
       </SOURCES>
     </library>
+    <library name="bootstrap-sass (v3.2.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bootstrap-sass-3.2.0.2/templates" />
+      </SOURCES>
+    </library>
     <library name="bootstrap-sass (v3.3.4.1, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/bootstrap-sass-3.3.4.1/lib" />
@@ -6182,6 +6260,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/builder-3.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="builder (v3.1.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/builder-3.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/builder-3.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/builder-3.2.2/lib" />
@@ -6748,6 +6834,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@jmh-gallery/gems/bundler-1.13.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.13.7, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bundler-1.13.7/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.13.7, RVM: ruby-2.3.1 [pc3]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/bundler-1.13.7/bin" />
@@ -7078,6 +7178,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.3.1 [global]) [gem]">
@@ -7436,6 +7544,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/capistrano-3.2.1/features" />
       </SOURCES>
     </library>
+    <library name="capistrano (v3.2.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-3.2.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-3.2.1/features" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.3.5, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/capistrano-3.3.5/bin" />
@@ -7574,6 +7694,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/capistrano-bundler-1.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-bundler (v1.1.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-bundler-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-bundler-1.1.3/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-bundler (v1.1.4, RVM: ruby-2.2.3 [headwind]) [gem]">
@@ -7782,6 +7910,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/capistrano-rails-1.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rails (v1.1.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-rails-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-rails-1.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-rails (v1.1.2, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/capistrano-rails-1.1.2/lib" />
@@ -7900,6 +8036,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/capistrano-rvm-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-rvm-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-rvm-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.3.1 [headwind]) [gem]">
@@ -8528,6 +8672,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/celluloid-0.16.0/lib" />
       </SOURCES>
     </library>
+    <library name="celluloid (v0.16.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/celluloid-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/celluloid-0.16.0/lib" />
+      </SOURCES>
+    </library>
     <library name="celluloid (v0.16.0, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/celluloid-0.16.0/lib" />
@@ -9062,6 +9214,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/climate_control-0.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="climate_control (v0.0.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/climate_control-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/climate_control-0.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="clipboard (v1.0.1, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/clipboard-1.0.1/lib" />
@@ -9152,6 +9312,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/cocaine-0.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocaine (v0.5.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/cocaine-0.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/cocaine-0.5.4/lib" />
       </SOURCES>
     </library>
     <library name="cocoon (v1.2.6, RVM: ruby-2.2.3 [brigade]) [gem]">
@@ -9406,6 +9574,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/coderay-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coderay-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coderay-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coderay-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coderay-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.0, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/coderay-1.1.0/bin" />
@@ -9542,6 +9720,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/coffee-rails-4.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/coffee-rails-4.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.0.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-rails-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-rails-4.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-rails-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-rails-4.0.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.1.0, RVM: ruby-2.2.2 [game_night]) [gem]">
@@ -9732,6 +9920,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/coffee-script-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.3.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-script-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-script-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="coffee-script (v2.4.1, RVM: ruby-2.2.2 [game_night]) [gem]">
@@ -9958,6 +10154,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/coffee-script-source-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script-source (v1.8.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-script-source-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/coffee-script-source-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script-source (v1.9.0, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/coffee-script-source-1.9.0/lib" />
@@ -10092,6 +10296,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/colorize-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="colorize (v0.7.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/colorize-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/colorize-0.7.3/lib" />
       </SOURCES>
     </library>
     <library name="colorize (v0.7.5, RVM: ruby-2.2.3 [headwind]) [gem]">
@@ -10806,6 +11018,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/countries-0.8.4/lib" />
       </SOURCES>
     </library>
+    <library name="countries (v0.8.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/countries-0.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/countries-0.8.4/lib" />
+      </SOURCES>
+    </library>
     <library name="countries (v1.0.0, RVM: ruby-2.2.3 [pc3]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@pc3/gems/countries-1.0.0/lib" />
@@ -11150,6 +11370,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/currencies-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="currencies (v0.4.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/currencies-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/currencies-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="currencies (v0.4.2, RVM: ruby-2.3.1 [pc3]) [gem]">
@@ -12084,6 +12312,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/did_you_mean-1.0.0/evaluation" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
@@ -12322,6 +12562,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/diff-lcs-1.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/diff-lcs-1.2.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.2.5, RVM: ruby-2.3.1 [headwind]) [gem]">
@@ -13262,6 +13514,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@plat/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/erubis-2.7.0/bin" />
@@ -13792,6 +14060,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/excel_rails-0.3.1/rails" />
       </SOURCES>
     </library>
+    <library name="excel_rails (v0.3.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/excel_rails-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/excel_rails-0.3.1/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/excel_rails-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/excel_rails-0.3.1/rails" />
+      </SOURCES>
+    </library>
     <library name="excon (v0.51.0, RVM: ruby-2.3.1 [muster]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@muster/gems/excon-0.51.0/lib" />
@@ -13828,6 +14106,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/execjs-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.2.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/execjs-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/execjs-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="execjs (v2.3.0, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
@@ -14236,6 +14522,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/executable-hooks-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/executable-hooks-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/executable-hooks-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="executable-hooks (v1.3.2, RVM: ruby-2.3.1 [global]) [gem]">
@@ -15442,6 +15740,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/ffi-1.9.6/libtest" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.6, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ffi-1.9.6/libtest" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.6, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.6" />
@@ -15874,6 +16188,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/font-awesome-rails-4.2.0.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/font-awesome-rails-4.2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="font-awesome-rails (v4.2.0.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/font-awesome-rails-4.2.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/font-awesome-rails-4.2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/font-awesome-rails-4.2.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/font-awesome-rails-4.2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="font-awesome-rails (v4.3.0.0, RVM: ruby-2.2.2 [notes_engine]) [gem]">
@@ -16346,6 +16670,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@plat/gems/formatador-0.2.5/tests" />
       </SOURCES>
     </library>
+    <library name="formatador (v0.2.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/formatador-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/formatador-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
     <library name="formatador (v0.2.5, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/formatador-0.2.5/lib" />
@@ -16812,6 +17146,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gem-wrappers-1.2.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.3.1 [global]) [gem]">
@@ -17706,6 +18050,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/guard-2.6.1/images" />
       </SOURCES>
     </library>
+    <library name="guard (v2.6.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-2.6.1/images" />
+      </SOURCES>
+    </library>
     <library name="guard-bundler (v2.1.0, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/guard-bundler-2.1.0/lib" />
@@ -18432,6 +18790,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/guard-rspec-4.3.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="guard-rspec (v4.3.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-rspec-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-rspec-4.3.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-rspec-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/guard-rspec-4.3.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="guard-rspec (v4.5.0, RVM: ruby-2.2.3 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@headwind/gems/guard-rspec-4.5.0/lib" />
@@ -18698,6 +19066,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/haml-4.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="haml (v4.0.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-4.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-4.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-4.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-4.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="haml (v4.0.6, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/haml-4.0.6/bin" />
@@ -18884,6 +19262,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/haml-rails-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/haml-rails-0.5.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="haml-rails (v0.5.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-rails-0.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-rails-0.5.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-rails-0.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/haml-rails-0.5.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="haml-rails (v0.9.0, RVM: ruby-2.2.2 [game_night]) [gem]">
@@ -19502,6 +19890,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/hike-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="hike (v1.2.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hike-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="hike (v1.2.3, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/hike-1.2.3/lib" />
@@ -19688,6 +20084,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/hitimes-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/hitimes-1.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/hitimes-1.2.2/tasks" />
+      </SOURCES>
+    </library>
+    <library name="hitimes (v1.2.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hitimes-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hitimes-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hitimes-1.2.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hitimes-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hitimes-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/hitimes-1.2.2/tasks" />
       </SOURCES>
     </library>
     <library name="hitimes (v1.2.2, RVM: ruby-2.3.1 [headwind]) [gem]">
@@ -20512,6 +20922,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/i18n-0.6.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/i18n-0.6.11/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.6.11, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/i18n-0.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/i18n-0.6.11/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/i18n-0.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/i18n-0.6.11/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n (v0.6.5, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
@@ -22828,6 +23248,70 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="io-console (v0.4.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.5, RVM: ruby-2.3.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
@@ -23470,6 +23954,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/jasny_bootstrap_extension_rails-0.0.1/vendor" />
       </SOURCES>
     </library>
+    <library name="jasny_bootstrap_extension_rails (v0.0.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jasny_bootstrap_extension_rails-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jasny_bootstrap_extension_rails-0.0.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jasny_bootstrap_extension_rails-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jasny_bootstrap_extension_rails-0.0.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v0.4.0, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/jbuilder-0.4.0/lib" />
@@ -23484,6 +23978,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/jbuilder-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v1.5.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jbuilder-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jbuilder-1.5.3/lib" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.2.13, RVM: ruby-2.2.2) [gem]">
@@ -23806,6 +24308,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/jquery-rails-3.1.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/jquery-rails-3.1.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v3.1.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jquery-rails-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jquery-rails-3.1.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jquery-rails-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/jquery-rails-3.1.2/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-rails (v4.0.3, RVM: ruby-2.2.2 [game_night]) [gem]">
@@ -25796,6 +26308,26 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.1/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.2, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/json-1.8.2/ext" />
@@ -26056,6 +26588,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/json-1.8.3/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.6, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/json-1.8.6/diagrams" />
       </SOURCES>
     </library>
     <library name="json (v2.0.1, RVM: ruby-2.3.1) [gem]">
@@ -26714,6 +27268,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/libv8-3.16.14.7-x86_64-linux/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8 (v3.16.14.7, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/libv8-3.16.14.7-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/libv8-3.16.14.7-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/libv8-3.16.14.7-x86_64-linux/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/libv8-3.16.14.7-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/libv8-3.16.14.7-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/libv8-3.16.14.7-x86_64-linux/vendor" />
+      </SOURCES>
+    </library>
     <library name="libv8 (v3.3.10.4, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/libv8/3.3.10.4" />
@@ -26816,6 +27384,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/listen-2.7.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/listen-2.7.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen (v2.7.11, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/listen-2.7.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/listen-2.7.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/listen-2.7.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/listen-2.7.11/lib" />
       </SOURCES>
     </library>
     <library name="listen (v2.8.5, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -28794,6 +29372,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/lumberjack-1.0.9/lib" />
       </SOURCES>
     </library>
+    <library name="lumberjack (v1.0.9, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/lumberjack-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/lumberjack-1.0.9/lib" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.9, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/lumberjack-1.0.9/lib" />
@@ -28824,6 +29410,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/mail-2.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.5.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mail-2.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mail-2.5.4/lib" />
       </SOURCES>
     </library>
     <library name="mail (v2.6.3, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -29486,6 +30080,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@plat/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/method_source-0.8.2/lib" />
@@ -29778,6 +30380,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/mime-types-1.25.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v1.25.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mime-types-1.25.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mime-types-1.25.1/lib" />
       </SOURCES>
     </library>
     <library name="mime-types (v2.4.3, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -31158,6 +31768,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/x86_64-linux" />
       </SOURCES>
     </library>
+    <library name="minitest (v4.7.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/minitest-4.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/minitest-4.7.5/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.4.3, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/minitest-5.4.3/lib" />
@@ -31324,6 +31942,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.3, RVM: ruby-2.3.1 [global]) [gem]">
@@ -31851,6 +32477,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/multi_json-1.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.10.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/multi_json-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/multi_json-1.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.11.0, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/multi_json-1.11.0/lib" />
@@ -32279,6 +32913,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/mysql2-0.3.16/support" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.3.16, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.3.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mysql2-0.3.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mysql2-0.3.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mysql2-0.3.16/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.3.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mysql2-0.3.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mysql2-0.3.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/mysql2-0.3.16/support" />
+      </SOURCES>
+    </library>
     <library name="neat (v1.7.4, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/neat-1.7.4/app" />
@@ -32693,6 +33341,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/net-scp-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-scp (v1.2.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/net-scp-1.2.1/lib" />
@@ -32777,6 +33433,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/net-ssh-2.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/net-ssh-2.9.1/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v2.9.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/net-ssh-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/net-ssh-2.9.1/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/net-ssh-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/net-ssh-2.9.1/support" />
       </SOURCES>
     </library>
     <library name="net-ssh (v2.9.2, RVM: ruby-2.2.2) [gem]">
@@ -33005,6 +33671,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.3.1 [global]) [gem]">
@@ -34931,6 +35607,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/paperclip-4.2.0/shoulda_macros" />
       </SOURCES>
     </library>
+    <library name="paperclip (v4.2.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/cucumber" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/cucumber" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.2.0/shoulda_macros" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.8.0, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/parallel-1.8.0/lib" />
@@ -35265,6 +35957,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pg-0.18.4/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.19.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pg-0.19.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pg-0.19.0/sample" />
       </SOURCES>
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.3.1 [plat_map]) [gem]">
@@ -35663,6 +36369,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/polyglot-0.3.5/lib" />
       </SOURCES>
     </library>
+    <library name="polyglot (v0.3.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/polyglot-0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/polyglot-0.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="postgres (v0.8.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/postgres-0.8.1/lib" />
@@ -35755,6 +36469,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.6, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.6, RVM: ruby-2.3.1 [global]) [gem]">
@@ -36041,6 +36763,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/pry-0.10.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/pry-0.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pry-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pry-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pry-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/pry-0.10.1/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.1, RVM: ruby-2.3.1 [headwind]) [gem]">
@@ -38241,6 +38973,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/puma-2.9.1/tools" />
       </SOURCES>
     </library>
+    <library name="puma (v2.9.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/2.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/2.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/puma-2.9.1/tools" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.1.1, RVM: ruby-2.3.0 [plat]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.1.1" />
@@ -38477,6 +39225,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/quiet_assets-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="quiet_assets (v1.0.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/quiet_assets-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/quiet_assets-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="quiet_assets (v1.1.0, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/quiet_assets-1.1.0/lib" />
@@ -38621,6 +39377,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rack-1.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rack-1.5.2/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rack-1.5.2/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.5.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-1.5.2/example" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.0, RVM: ruby-2.2.2) [gem]">
@@ -39319,6 +40089,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rack-test-0.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v0.6.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-test-0.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rack-test-0.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/rack-test-0.6.3/lib" />
@@ -39481,6 +40259,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rails-4.0.2/guides" />
+      </SOURCES>
+    </library>
+    <library name="rails (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rails-4.0.2/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rails-4.0.2/guides" />
       </SOURCES>
     </library>
     <library name="rails (v4.1.8, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -40349,6 +41135,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rails_layout-1.0.23/lib" />
       </SOURCES>
     </library>
+    <library name="rails_layout (v1.0.23, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rails_layout-1.0.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rails_layout-1.0.23/lib" />
+      </SOURCES>
+    </library>
     <library name="rails_layout (v1.0.24, RVM: ruby-2.2.3 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@headwind/gems/rails_layout-1.0.24/lib" />
@@ -40693,6 +41487,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/railties-4.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/railties-4.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/railties-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/railties-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/railties-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/railties-4.0.2/lib" />
       </SOURCES>
     </library>
     <library name="railties (v4.1.8, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -41781,6 +42585,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rake-10.3.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.3.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rake-10.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rake-10.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rake-10.3.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rake-10.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rake-10.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rake-10.3.2/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.1, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/rake-10.4.1/bin" />
@@ -42543,6 +43359,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, RVM: ruby-2.3.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
@@ -43111,6 +43939,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/rb-fsevent-0.9.4/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.9.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-fsevent-0.9.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-fsevent-0.9.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-fsevent-0.9.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-fsevent-0.9.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-fsevent-0.9.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-fsevent-0.9.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.9.4, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.4" />
@@ -43449,6 +44291,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/rb-inotify-0.9.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-inotify-0.9.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rb-inotify-0.9.5/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.5, RVM: ruby-2.3.1 [headwind]) [gem]">
@@ -44309,6 +45159,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rdoc-4.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rdoc-4.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.1.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rdoc-4.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rdoc-4.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rdoc-4.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rdoc-4.1.2/lib" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.0, RVM: ruby-2.2.1 [pc3]) [gem]">
@@ -45334,6 +46194,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/ref-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="ref (v1.0.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ref-1.0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ref-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ref-1.0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ref-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="ref (v2.0.0, RVM: ruby-2.3.1 [plat_map]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@plat_map/gems/ref-2.0.0/ext" />
@@ -46036,6 +46906,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rspec-3.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.1.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.2.0, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/rspec-3.2.0/lib" />
@@ -46226,6 +47104,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rspec-core-3.1.7/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rspec-core-3.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.1.7, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-core-3.1.7/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-core-3.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-core-3.1.7/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-core-3.1.7/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.2.1, RVM: ruby-2.2.3 [headwind]) [gem]">
@@ -46454,6 +47342,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rspec-expectations-3.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.1.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-expectations-3.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-expectations-3.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.2.0, RVM: ruby-2.2.3 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@headwind/gems/rspec-expectations-3.2.0/lib" />
@@ -46666,6 +47562,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rspec-mocks-3.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.1.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-mocks-3.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-mocks-3.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.2.1, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/rspec-mocks-3.2.1/lib" />
@@ -46834,6 +47738,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rspec-rails-3.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.1.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-rails-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-rails-3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.2.1, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/rspec-rails-3.2.1/lib" />
@@ -46986,6 +47898,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/rspec-support-3.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.1.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-support-3.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rspec-support-3.1.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.2.2, RVM: ruby-2.2.2 [game_night]) [gem]">
@@ -47284,6 +48204,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/ruby-ole-1.2.11.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/ruby-ole-1.2.11.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-ole (v1.2.11.7, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ruby-ole-1.2.11.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ruby-ole-1.2.11.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ruby-ole-1.2.11.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/ruby-ole-1.2.11.7/lib" />
       </SOURCES>
     </library>
     <library name="ruby-ole (v1.2.11.8, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
@@ -47842,6 +48772,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.3.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
@@ -48198,6 +49136,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.3.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
@@ -48392,6 +49338,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sass-3.2.19/extra" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sass-3.2.19/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sass-3.2.19/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.2.19, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-3.2.19/vendor" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.12, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
@@ -48810,6 +49772,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sass-rails-4.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="sass-rails (v4.0.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-rails-4.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sass-rails-4.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sass-rails (v4.0.4, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/sass-rails-4.0.4/lib" />
@@ -49054,6 +50024,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sdoc-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="sdoc (v0.4.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sdoc-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sdoc-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="seed_migration (v1.0.5, RVM: ruby-2.2.3 [brigade]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@brigade/gems/seed_migration-1.0.5/db" />
@@ -49130,6 +50110,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/select2-rails-3.5.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/select2-rails-3.5.9.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="select2-rails (v3.5.9.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/select2-rails-3.5.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/select2-rails-3.5.9.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/select2-rails-3.5.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/select2-rails-3.5.9.1/vendor" />
       </SOURCES>
     </library>
     <library name="select2-rails (v3.5.9.3, RVM: ruby-2.2.3 [brigade]) [gem]">
@@ -49960,6 +50950,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/simple_form-3.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="simple_form (v3.0.2, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/simple_form-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/simple_form-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="simple_form (v3.1.0, RVM: ruby-2.2.2 [game_night]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/simple_form-3.1.0/lib" />
@@ -50384,6 +51382,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@plat/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="slop (v3.6.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/slop-3.6.0/lib" />
@@ -50564,6 +51570,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/spreadsheet-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/spreadsheet-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.0.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/spreadsheet-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/spreadsheet-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/spreadsheet-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/spreadsheet-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="spreadsheet (v1.0.1, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
@@ -50944,6 +51960,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sprockets-2.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v2.11.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sprockets-2.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sprockets-2.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sprockets-2.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sprockets-2.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v2.11.3, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/sprockets-2.11.3/bin" />
@@ -51314,6 +52340,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sprockets-rails-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets-rails (v2.0.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sprockets-rails-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sprockets-rails-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v2.2.2, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/sprockets-rails-2.2.2/lib" />
@@ -51576,6 +52610,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sqlite3-1.3.9/tasks" />
       </SOURCES>
     </library>
+    <library name="sqlite3 (v1.3.9, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sqlite3-1.3.9/tasks" />
+      </SOURCES>
+    </library>
     <library name="squeel (v1.0.6@c71fb7, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/bundler/gems/squeel-c71fb7c87b84/lib" />
@@ -51616,6 +52666,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sshkit-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/sshkit-1.5.1/assets" />
+      </SOURCES>
+    </library>
+    <library name="sshkit (v1.5.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sshkit-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sshkit-1.5.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sshkit-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/sshkit-1.5.1/assets" />
       </SOURCES>
     </library>
     <library name="sshkit (v1.6.1, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
@@ -52614,6 +53674,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
+    <library name="test-unit (v3.1.5, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.1.5, RVM: ruby-2.3.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
@@ -52774,6 +53844,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/therubyracer/0.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/therubyracer-0.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/therubyracer-0.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/therubyracer-0.12.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/therubyracer-0.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/therubyracer-0.12.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/therubyracer-0.12.1/lib" />
       </SOURCES>
     </library>
     <library name="therubyracer (v0.12.2, RVM: ruby-2.3.1 [plat_map]) [gem]">
@@ -53000,6 +54082,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@plat/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
+    <library name="thor (v0.19.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.1, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/thor-0.19.1/bin" />
@@ -53098,6 +54190,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/thread_safe-0.3.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/thread_safe-0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thread_safe-0.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thread_safe-0.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thread_safe-0.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/thread_safe-0.3.4/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, RVM: ruby-2.2.2 [game_night]) [gem]">
@@ -53588,6 +54690,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/tilt-1.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="tilt (v1.4.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/tilt-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/tilt-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/tilt-1.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="tilt (v1.4.1, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/tilt-1.4.1/bin" />
@@ -53854,6 +54966,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@headwind/gems/timers-4.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="timers (v4.0.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/timers-4.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/timers-4.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="timers (v4.0.1, RVM: ruby-2.3.1 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@headwind/gems/timers-4.0.1/lib" />
@@ -54002,6 +55122,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/treetop-1.4.15/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/treetop-1.4.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="treetop (v1.4.15, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/treetop-1.4.15/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/treetop-1.4.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/treetop-1.4.15/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/treetop-1.4.15/lib" />
       </SOURCES>
     </library>
     <library name="trollop (v2.1.2, RVM: ruby-2.3.1 [muster]) [gem]">
@@ -54204,6 +55334,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/tzinfo-0.3.41/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v0.3.41, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/tzinfo-0.3.41/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/tzinfo-0.3.41/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -54416,6 +55554,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/uglifier-2.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/uglifier-2.5.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v2.5.3, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/uglifier-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/uglifier-2.5.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/uglifier-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/uglifier-2.5.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="uglifier (v2.7.1, RVM: ruby-2.2.2 [game_night]) [gem]">
@@ -55732,6 +56880,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/writeexcel-1.0.4/html" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/writeexcel-1.0.4/utils" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.3@crumpet/gems/writeexcel-1.0.4/charts" />
+      </SOURCES>
+    </library>
+    <library name="writeexcel (v1.0.4, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/html" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/utils" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/charts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/html" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/utils" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/writeexcel-1.0.4/charts" />
       </SOURCES>
     </library>
     <library name="writeexcel (v1.0.5, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
