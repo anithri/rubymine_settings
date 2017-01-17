@@ -8030,6 +8030,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@pc3/gems/capistrano-passenger-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-passenger (v0.2.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-passenger-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/capistrano-passenger-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-passenger (v0.2.0, RVM: ruby-2.3.1 [muster]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@muster/gems/capistrano-passenger-0.2.0/lib" />
