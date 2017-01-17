@@ -3672,6 +3672,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/bcrypt-ruby-3.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt_pbkdf (v1.0.0, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt_pbkdf/1.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bcrypt_pbkdf-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bcrypt_pbkdf-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt_pbkdf/1.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bcrypt_pbkdf-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/bcrypt_pbkdf-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="berkshelf (v3.3.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/berkshelf-3.3.0/bin" />
@@ -45173,6 +45185,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-inotify-0.9.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rbnacl (v4.0.1, RVM: ruby-2.3.1 [crumpet]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rbnacl-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rbnacl-4.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rbnacl-4.0.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rbnacl-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rbnacl-4.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/rbnacl-4.0.1/images" />
       </SOURCES>
     </library>
     <library name="rbvmomi (v1.8.2, RVM: ruby-2.3.1 [muster]) [gem]">
