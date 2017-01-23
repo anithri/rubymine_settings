@@ -9462,6 +9462,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/climate_control-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="climate_control (v0.1.0, RVM: ruby-2.3.1 [pc3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/climate_control-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/climate_control-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="clipboard (v1.0.1, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/clipboard-1.0.1/lib" />
@@ -36343,6 +36351,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.3.7/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.3.7/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@crumpet/gems/paperclip-4.3.7/shoulda_macros" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v5.0.0, RVM: ruby-2.3.1 [pc3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/paperclip-5.0.0/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="parallel (v1.8.0, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
