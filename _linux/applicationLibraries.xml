@@ -33037,6 +33037,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/momentjs-rails-fa8ac4899554/vendor" />
       </SOURCES>
     </library>
+    <library name="momentjs-rails (v2.17.1@ea58a2, RVM: ruby-2.3.1 [pc3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/momentjs-rails-ea58a20b7b2c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/momentjs-rails-ea58a20b7b2c/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/momentjs-rails-ea58a20b7b2c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/momentjs-rails-ea58a20b7b2c/vendor" />
+      </SOURCES>
+    </library>
     <library name="monban (v0.3.1, RVM: ruby-2.3.0 [plat]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@plat/gems/monban-0.3.1/lib" />
