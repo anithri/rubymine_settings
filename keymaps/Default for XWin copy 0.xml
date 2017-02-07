@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+</keymap>
