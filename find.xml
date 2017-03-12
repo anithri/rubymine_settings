@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Lintable" />
+    <option name="defaultScopeName" value="Lintable" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Lintable" />
   </component>
 </application>
