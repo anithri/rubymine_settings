@@ -2988,6 +2988,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/bundler/gems/annotator-d9265432c5fd/lib" />
       </SOURCES>
     </library>
+    <library name="apivore (v1.6.2, RVM: ruby-2.4.0 [tunnels]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/apivore-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/apivore-1.6.2/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/apivore-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/apivore-1.6.2/data" />
+      </SOURCES>
+    </library>
     <library name="arbre (v1.0.3, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/arbre-1.0.3/lib" />
@@ -20126,6 +20136,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashie-3.4.6/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.5.5, RVM: ruby-2.4.0 [tunnels]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/hashie-3.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/hashie-3.5.5/lib" />
+      </SOURCES>
+    </library>
     <library name="hashwithindifferentaccess (v0.1.1, RVM: ruby-2.2.3 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@headwind/gems/hashwithindifferentaccess-0.1.1/bin" />
@@ -25980,6 +25998,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.0.2/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.0.2/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.0.2/references" />
+      </SOURCES>
+    </library>
+    <library name="json-schema (v2.8.0, RVM: ruby-2.4.0 [tunnels]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/json-schema-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/json-schema-2.8.0/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/json-schema-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/json-schema-2.8.0/resources" />
       </SOURCES>
     </library>
     <library name="json_pure (v1.7.3, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
