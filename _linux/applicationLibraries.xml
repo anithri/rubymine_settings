@@ -1004,6 +1004,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_hash-1.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.5, RVM: ruby-2.4.0 [tunnels]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_model_serializers-0.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_model_serializers-0.10.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_model_serializers-0.10.5/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_model_serializers-0.10.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_model_serializers-0.10.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_model_serializers-0.10.5/.github" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.9.0, RVM: ruby-2.2.3 [brigade]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@brigade/gems/active_model_serializers-0.9.0/lib" />
@@ -8326,6 +8338,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/carrierwave-1.0.0.beta/lib" />
+      </SOURCES>
+    </library>
+    <library name="case_transform (v0.2, RVM: ruby-2.4.0 [tunnels]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/case_transform-0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/case_transform-0.2/lib" />
       </SOURCES>
     </library>
     <library name="casino (v3.0.4, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -25984,6 +26004,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/json_pure-1.7.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="jsonapi-renderer (v0.1.2, RVM: ruby-2.4.0 [tunnels]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/jsonapi-renderer-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/jsonapi-renderer-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="jwt (v1.5.4, RVM: ruby-2.3.1 [muster]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@muster/gems/jwt-1.5.4/lib" />
@@ -39363,6 +39391,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/rails-assets-select2-bootstrap-1.3.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@game_night/gems/rails-assets-select2-bootstrap-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-controller-testing (v1.0.1, RVM: ruby-2.4.0 [tunnels]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/rails-controller-testing-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/rails-controller-testing-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.2.2 [game_night]) [gem]">
