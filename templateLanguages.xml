@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="templates/**/*.js" lang="ECMAScript 6" />
+  </component>
+</application>
