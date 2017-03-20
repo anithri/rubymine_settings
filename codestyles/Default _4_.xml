@@ -1,6 +1,8 @@
 <code_scheme name="Default (4)">
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="CSS">
