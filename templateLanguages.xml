@@ -1,5 +1,6 @@
 <application>
   <component name="TemplateDataLanguagePatterns">
     <pattern value="templates/**/*.js" lang="ECMAScript 6" />
+    <pattern value="blueprints/**/files/**/*.js" lang="JavaScript" />
   </component>
 </application>
