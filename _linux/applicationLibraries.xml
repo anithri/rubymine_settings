@@ -1068,6 +1068,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/active_hash-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="active_hash (v1.5.1, RVM: ruby-2.3.1 [pc3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/active_hash-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/active_hash-1.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.10.5, RVM: ruby-2.4.0 [tunnels]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/active_model_serializers-0.10.5/bin" />
@@ -29118,6 +29126,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/lookup_data-cfe395d55d0b/lib" />
+      </SOURCES>
+    </library>
+    <library name="lookup_data (v0.16.14@128a27, RVM: ruby-2.3.1 [pc3]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/lookup_data-128a271ebedc/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/bundler/gems/lookup_data-128a271ebedc/lib" />
       </SOURCES>
     </library>
     <library name="lookup_data (v0.16.1@33363b, RVM: ruby-2.3.1 [pc3]) [gem]">
