@@ -2456,6 +2456,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/activesupport-5.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.0.3, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/activesupport-5.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/activesupport-5.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.1.0.beta1, RVM: ruby-2.4.0 [tunnels]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/activesupport-5.1.0.beta1/lib" />
@@ -4124,6 +4132,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.7.0/set_version" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.7.0/frozen_old_spec" />
+      </SOURCES>
+    </library>
+    <library name="backports (v3.8.0, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/backports-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/backports-3.8.0/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/backports-3.8.0/frozen_old_spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/backports-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/backports-3.8.0/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/backports-3.8.0/frozen_old_spec" />
       </SOURCES>
     </library>
     <library name="barista (v1.2.1, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
@@ -6510,6 +6530,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/builder-3.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@pc3/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.3, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.4.0 [tunnels]) [gem]">
@@ -13850,6 +13880,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/dotenv-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.2.1, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/dotenv-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/dotenv-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/dotenv-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/dotenv-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv-rails (v1.0.2, RVM: ruby-2.2.3 [headwind]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@headwind/gems/dotenv-rails-1.0.2/lib" />
@@ -21034,6 +21074,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@brigade/gems/haml-4.1.0.beta.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@brigade/gems/haml-4.1.0.beta.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="haml (v5.0.1, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/yard" />
       </SOURCES>
     </library>
     <library name="haml-rails (v0.3.4, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
@@ -33088,6 +33140,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@global/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.2, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/minitest-5.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/minitest-5.10.2/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.4.3, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/minitest-5.4.3/lib" />
@@ -37369,6 +37429,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/parallel-1.11.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.11.2, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/parallel-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/parallel-1.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.8.0, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/parallel-1.8.0/lib" />
@@ -41247,6 +41315,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rack-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rack-2.0.1/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rack-2.0.1/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.2, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/example" />
       </SOURCES>
     </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.2.3 [brigade]) [gem]">
@@ -54586,6 +54668,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/temple-0.7.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.8.0, RVM: ruby-2.4.0 [jmh]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/temple-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/temple-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="terminal-table (v1.4.5, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
