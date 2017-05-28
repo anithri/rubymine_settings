@@ -1,0 +1,7 @@
+<templateSet group="showOff">
+  <template name=".tx" value="position: showOff;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
