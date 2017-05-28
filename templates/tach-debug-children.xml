@@ -1,0 +1,17 @@
+<templateSet group="tach-debug-children">
+  <template name=".debug *" value="/* Tachyons - debug-children: .debug * */&#10;outline: 1px solid gold;" description="/* Tachyons - debug-children: .debug * */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".debug-white *" value="/* Tachyons - debug-children: .debug-white * */&#10;outline: 1px solid white;" description="/* Tachyons - debug-children: .debug-white * */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".debug-black *" value="/* Tachyons - debug-children: .debug-black * */&#10;outline: 1px solid black;" description="/* Tachyons - debug-children: .debug-black * */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

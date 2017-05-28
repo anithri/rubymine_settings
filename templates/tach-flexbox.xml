@@ -1,0 +1,192 @@
+<templateSet group="tach-flexbox">
+  <template name=".flex" value="/* Tachyons - flexbox: .flex */&#10;display: flex;" description="/* Tachyons - flexbox: .flex */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".inline-flex" value="/* Tachyons - flexbox: .inline-flex */&#10;display: inline-flex;" description="/* Tachyons - flexbox: .inline-flex */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".flex-auto" value="/* Tachyons - flexbox: .flex-auto */&#10;flex: 1 1 auto;&#10;min-width: 0;&#10;min-height: 0;" description="/* Tachyons - flexbox: .flex-auto */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".flex-none" value="/* Tachyons - flexbox: .flex-none */&#10;flex: none;" description="/* Tachyons - flexbox: .flex-none */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".flex-column" value="/* Tachyons - flexbox: .flex-column */&#10;flex-direction: column;" description="/* Tachyons - flexbox: .flex-column */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".flex-row" value="/* Tachyons - flexbox: .flex-row */&#10;flex-direction: row;" description="/* Tachyons - flexbox: .flex-row */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".flex-wrap" value="/* Tachyons - flexbox: .flex-wrap */&#10;flex-wrap: wrap;" description="/* Tachyons - flexbox: .flex-wrap */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".items-start" value="/* Tachyons - flexbox: .items-start */&#10;align-items: flex-start;" description="/* Tachyons - flexbox: .items-start */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".items-end" value="/* Tachyons - flexbox: .items-end */&#10;align-items: flex-end;" description="/* Tachyons - flexbox: .items-end */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".items-center" value="/* Tachyons - flexbox: .items-center */&#10;align-items: center;" description="/* Tachyons - flexbox: .items-center */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".items-baseline" value="/* Tachyons - flexbox: .items-baseline */&#10;align-items: baseline;" description="/* Tachyons - flexbox: .items-baseline */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".items-stretch" value="/* Tachyons - flexbox: .items-stretch */&#10;align-items: stretch;" description="/* Tachyons - flexbox: .items-stretch */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".self-start" value="/* Tachyons - flexbox: .self-start */&#10;align-self: flex-start;" description="/* Tachyons - flexbox: .self-start */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".self-end" value="/* Tachyons - flexbox: .self-end */&#10;align-self: flex-end;" description="/* Tachyons - flexbox: .self-end */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".self-center" value="/* Tachyons - flexbox: .self-center */&#10;align-self: center;" description="/* Tachyons - flexbox: .self-center */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".self-baseline" value="/* Tachyons - flexbox: .self-baseline */&#10;align-self: baseline;" description="/* Tachyons - flexbox: .self-baseline */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".self-stretch" value="/* Tachyons - flexbox: .self-stretch */&#10;align-self: stretch;" description="/* Tachyons - flexbox: .self-stretch */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".justify-start" value="/* Tachyons - flexbox: .justify-start */&#10;justify-content: flex-start;" description="/* Tachyons - flexbox: .justify-start */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".justify-end" value="/* Tachyons - flexbox: .justify-end */&#10;justify-content: flex-end;" description="/* Tachyons - flexbox: .justify-end */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".justify-center" value="/* Tachyons - flexbox: .justify-center */&#10;justify-content: center;" description="/* Tachyons - flexbox: .justify-center */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".justify-between" value="/* Tachyons - flexbox: .justify-between */&#10;justify-content: space-between;" description="/* Tachyons - flexbox: .justify-between */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".justify-around" value="/* Tachyons - flexbox: .justify-around */&#10;justify-content: space-around;" description="/* Tachyons - flexbox: .justify-around */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".content-start" value="/* Tachyons - flexbox: .content-start */&#10;align-content: flex-start;" description="/* Tachyons - flexbox: .content-start */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".content-end" value="/* Tachyons - flexbox: .content-end */&#10;align-content: flex-end;" description="/* Tachyons - flexbox: .content-end */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".content-center" value="/* Tachyons - flexbox: .content-center */&#10;align-content: center;" description="/* Tachyons - flexbox: .content-center */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".content-between" value="/* Tachyons - flexbox: .content-between */&#10;align-content: space-between;" description="/* Tachyons - flexbox: .content-between */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".content-around" value="/* Tachyons - flexbox: .content-around */&#10;align-content: space-around;" description="/* Tachyons - flexbox: .content-around */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".content-stretch" value="/* Tachyons - flexbox: .content-stretch */&#10;align-content: stretch;" description="/* Tachyons - flexbox: .content-stretch */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-0" value="/* Tachyons - flexbox: .order-0 */&#10;order: 0;" description="/* Tachyons - flexbox: .order-0 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-1" value="/* Tachyons - flexbox: .order-1 */&#10;order: 1;" description="/* Tachyons - flexbox: .order-1 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-2" value="/* Tachyons - flexbox: .order-2 */&#10;order: 2;" description="/* Tachyons - flexbox: .order-2 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-3" value="/* Tachyons - flexbox: .order-3 */&#10;order: 3;" description="/* Tachyons - flexbox: .order-3 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-4" value="/* Tachyons - flexbox: .order-4 */&#10;order: 4;" description="/* Tachyons - flexbox: .order-4 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-5" value="/* Tachyons - flexbox: .order-5 */&#10;order: 5;" description="/* Tachyons - flexbox: .order-5 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-6" value="/* Tachyons - flexbox: .order-6 */&#10;order: 6;" description="/* Tachyons - flexbox: .order-6 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-7" value="/* Tachyons - flexbox: .order-7 */&#10;order: 7;" description="/* Tachyons - flexbox: .order-7 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-8" value="/* Tachyons - flexbox: .order-8 */&#10;order: 8;" description="/* Tachyons - flexbox: .order-8 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".order-last" value="/* Tachyons - flexbox: .order-last */&#10;order: 99999;" description="/* Tachyons - flexbox: .order-last */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

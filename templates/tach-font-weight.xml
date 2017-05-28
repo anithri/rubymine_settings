@@ -1,0 +1,57 @@
+<templateSet group="tach-font-weight">
+  <template name=".normal" value="/* Tachyons - font-weight: .normal */&#10;font-weight: normal;" description="/* Tachyons - font-weight: .normal */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".b" value="/* Tachyons - font-weight: .b */&#10;font-weight: bold;" description="/* Tachyons - font-weight: .b */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw1" value="/* Tachyons - font-weight: .fw1 */&#10;font-weight: 100;" description="/* Tachyons - font-weight: .fw1 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw2" value="/* Tachyons - font-weight: .fw2 */&#10;font-weight: 200;" description="/* Tachyons - font-weight: .fw2 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw3" value="/* Tachyons - font-weight: .fw3 */&#10;font-weight: 300;" description="/* Tachyons - font-weight: .fw3 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw4" value="/* Tachyons - font-weight: .fw4 */&#10;font-weight: 400;" description="/* Tachyons - font-weight: .fw4 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw5" value="/* Tachyons - font-weight: .fw5 */&#10;font-weight: 500;" description="/* Tachyons - font-weight: .fw5 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw6" value="/* Tachyons - font-weight: .fw6 */&#10;font-weight: 600;" description="/* Tachyons - font-weight: .fw6 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw7" value="/* Tachyons - font-weight: .fw7 */&#10;font-weight: 700;" description="/* Tachyons - font-weight: .fw7 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw8" value="/* Tachyons - font-weight: .fw8 */&#10;font-weight: 800;" description="/* Tachyons - font-weight: .fw8 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fw9" value="/* Tachyons - font-weight: .fw9 */&#10;font-weight: 900;" description="/* Tachyons - font-weight: .fw9 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

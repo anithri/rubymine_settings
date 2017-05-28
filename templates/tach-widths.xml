@@ -1,0 +1,112 @@
+<templateSet group="tach-widths">
+  <template name=".w1" value="/* Tachyons - widths: .w1 */&#10;width: var(--width-1);" description="/* Tachyons - widths: .w1 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w2" value="/* Tachyons - widths: .w2 */&#10;width: var(--width-2);" description="/* Tachyons - widths: .w2 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w3" value="/* Tachyons - widths: .w3 */&#10;width: var(--width-3);" description="/* Tachyons - widths: .w3 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w4" value="/* Tachyons - widths: .w4 */&#10;width: var(--width-4);" description="/* Tachyons - widths: .w4 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w5" value="/* Tachyons - widths: .w5 */&#10;width: var(--width-5);" description="/* Tachyons - widths: .w5 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-10" value="/* Tachyons - widths: .w-10 */&#10;width: 10%;" description="/* Tachyons - widths: .w-10 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-20" value="/* Tachyons - widths: .w-20 */&#10;width: 20%;" description="/* Tachyons - widths: .w-20 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-25" value="/* Tachyons - widths: .w-25 */&#10;width: 25%;" description="/* Tachyons - widths: .w-25 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-30" value="/* Tachyons - widths: .w-30 */&#10;width: 30%;" description="/* Tachyons - widths: .w-30 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-33" value="/* Tachyons - widths: .w-33 */&#10;width: 33%;" description="/* Tachyons - widths: .w-33 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-34" value="/* Tachyons - widths: .w-34 */&#10;width: 34%;" description="/* Tachyons - widths: .w-34 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-40" value="/* Tachyons - widths: .w-40 */&#10;width: 40%;" description="/* Tachyons - widths: .w-40 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-50" value="/* Tachyons - widths: .w-50 */&#10;width: 50%;" description="/* Tachyons - widths: .w-50 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-60" value="/* Tachyons - widths: .w-60 */&#10;width: 60%;" description="/* Tachyons - widths: .w-60 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-70" value="/* Tachyons - widths: .w-70 */&#10;width: 70%;" description="/* Tachyons - widths: .w-70 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-75" value="/* Tachyons - widths: .w-75 */&#10;width: 75%;" description="/* Tachyons - widths: .w-75 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-80" value="/* Tachyons - widths: .w-80 */&#10;width: 80%;" description="/* Tachyons - widths: .w-80 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-90" value="/* Tachyons - widths: .w-90 */&#10;width: 90%;" description="/* Tachyons - widths: .w-90 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-100" value="/* Tachyons - widths: .w-100 */&#10;width: 100%;" description="/* Tachyons - widths: .w-100 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-third" value="/* Tachyons - widths: .w-third */&#10;width: calc(100% / 3);" description="/* Tachyons - widths: .w-third */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-two-thirds" value="/* Tachyons - widths: .w-two-thirds */&#10;width: calc(100% / 1.5);" description="/* Tachyons - widths: .w-two-thirds */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".w-auto" value="/* Tachyons - widths: .w-auto */&#10;width: auto;" description="/* Tachyons - widths: .w-auto */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

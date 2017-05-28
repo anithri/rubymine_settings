@@ -1,0 +1,17 @@
+<templateSet group="tach-text-align">
+  <template name=".tl" value="/* Tachyons - text-align: .tl */&#10;text-align: left;" description="/* Tachyons - text-align: .tl */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".tr" value="/* Tachyons - text-align: .tr */&#10;text-align: right;" description="/* Tachyons - text-align: .tr */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".tc" value="/* Tachyons - text-align: .tc */&#10;text-align: center;" description="/* Tachyons - text-align: .tc */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,17 @@
+<templateSet group="tach-word-break">
+  <template name=".word-normal" value="/* Tachyons - word-break: .word-normal */&#10;word-break: normal;" description="/* Tachyons - word-break: .word-normal */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".word-wrap" value="/* Tachyons - word-break: .word-wrap */&#10;word-break: break-all;" description="/* Tachyons - word-break: .word-wrap */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".word-nowrap" value="/* Tachyons - word-break: .word-nowrap */&#10;word-break: keep-all;" description="/* Tachyons - word-break: .word-nowrap */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

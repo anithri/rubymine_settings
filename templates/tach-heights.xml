@@ -1,0 +1,87 @@
+<templateSet group="tach-heights">
+  <template name=".h1" value="/* Tachyons - heights: .h1 */&#10;height: var(--height-1);" description="/* Tachyons - heights: .h1 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h2" value="/* Tachyons - heights: .h2 */&#10;height: var(--height-2);" description="/* Tachyons - heights: .h2 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h3" value="/* Tachyons - heights: .h3 */&#10;height: var(--height-3);" description="/* Tachyons - heights: .h3 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h4" value="/* Tachyons - heights: .h4 */&#10;height: var(--height-4);" description="/* Tachyons - heights: .h4 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h5" value="/* Tachyons - heights: .h5 */&#10;height: var(--height-5);" description="/* Tachyons - heights: .h5 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h-25" value="/* Tachyons - heights: .h-25 */&#10;height: 25%;" description="/* Tachyons - heights: .h-25 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h-50" value="/* Tachyons - heights: .h-50 */&#10;height: 50%;" description="/* Tachyons - heights: .h-50 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h-75" value="/* Tachyons - heights: .h-75 */&#10;height: 75%;" description="/* Tachyons - heights: .h-75 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h-100" value="/* Tachyons - heights: .h-100 */&#10;height: 100%;" description="/* Tachyons - heights: .h-100 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".min-h-100" value="/* Tachyons - heights: .min-h-100 */&#10;min-height: 100%;" description="/* Tachyons - heights: .min-h-100 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".vh-25" value="/* Tachyons - heights: .vh-25 */&#10;height: 25vh;" description="/* Tachyons - heights: .vh-25 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".vh-50" value="/* Tachyons - heights: .vh-50 */&#10;height: 50vh;" description="/* Tachyons - heights: .vh-50 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".vh-75" value="/* Tachyons - heights: .vh-75 */&#10;height: 75vh;" description="/* Tachyons - heights: .vh-75 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".vh-100" value="/* Tachyons - heights: .vh-100 */&#10;height: 100vh;" description="/* Tachyons - heights: .vh-100 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".min-vh-100" value="/* Tachyons - heights: .min-vh-100 */&#10;min-height: 100vh;" description="/* Tachyons - heights: .min-vh-100 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h-auto" value="/* Tachyons - heights: .h-auto */&#10;height: auto;" description="/* Tachyons - heights: .h-auto */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".h-inherit" value="/* Tachyons - heights: .h-inherit */&#10;height: inherit;" description="/* Tachyons - heights: .h-inherit */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

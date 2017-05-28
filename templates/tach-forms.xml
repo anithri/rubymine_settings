@@ -1,0 +1,7 @@
+<templateSet group="tach-forms">
+  <template name=".input-reset" value="/* Tachyons - forms: .input-reset */&#10;-webkit-appearance: none;&#10;-moz-appearance: none;" description="/* Tachyons - forms: .input-reset */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

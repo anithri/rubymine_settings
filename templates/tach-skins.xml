@@ -1,0 +1,557 @@
+<templateSet group="tach-skins">
+  <template name=".black-90" value="/* Tachyons - skins: .black-90 */&#10;color: var(--black-90);" description="/* Tachyons - skins: .black-90 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-80" value="/* Tachyons - skins: .black-80 */&#10;color: var(--black-80);" description="/* Tachyons - skins: .black-80 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-70" value="/* Tachyons - skins: .black-70 */&#10;color: var(--black-70);" description="/* Tachyons - skins: .black-70 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-60" value="/* Tachyons - skins: .black-60 */&#10;color: var(--black-60);" description="/* Tachyons - skins: .black-60 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-50" value="/* Tachyons - skins: .black-50 */&#10;color: var(--black-50);" description="/* Tachyons - skins: .black-50 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-40" value="/* Tachyons - skins: .black-40 */&#10;color: var(--black-40);" description="/* Tachyons - skins: .black-40 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-30" value="/* Tachyons - skins: .black-30 */&#10;color: var(--black-30);" description="/* Tachyons - skins: .black-30 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-20" value="/* Tachyons - skins: .black-20 */&#10;color: var(--black-20);" description="/* Tachyons - skins: .black-20 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-10" value="/* Tachyons - skins: .black-10 */&#10;color: var(--black-10);" description="/* Tachyons - skins: .black-10 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black-05" value="/* Tachyons - skins: .black-05 */&#10;color: var(--black-05);" description="/* Tachyons - skins: .black-05 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-90" value="/* Tachyons - skins: .white-90 */&#10;color: var(--white-90);" description="/* Tachyons - skins: .white-90 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-80" value="/* Tachyons - skins: .white-80 */&#10;color: var(--white-80);" description="/* Tachyons - skins: .white-80 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-70" value="/* Tachyons - skins: .white-70 */&#10;color: var(--white-70);" description="/* Tachyons - skins: .white-70 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-60" value="/* Tachyons - skins: .white-60 */&#10;color: var(--white-60);" description="/* Tachyons - skins: .white-60 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-50" value="/* Tachyons - skins: .white-50 */&#10;color: var(--white-50);" description="/* Tachyons - skins: .white-50 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-40" value="/* Tachyons - skins: .white-40 */&#10;color: var(--white-40);" description="/* Tachyons - skins: .white-40 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-30" value="/* Tachyons - skins: .white-30 */&#10;color: var(--white-30);" description="/* Tachyons - skins: .white-30 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-20" value="/* Tachyons - skins: .white-20 */&#10;color: var(--white-20);" description="/* Tachyons - skins: .white-20 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white-10" value="/* Tachyons - skins: .white-10 */&#10;color: var(--white-10);" description="/* Tachyons - skins: .white-10 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".black" value="/* Tachyons - skins: .black */&#10;color: var(--black);" description="/* Tachyons - skins: .black */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".near-black" value="/* Tachyons - skins: .near-black */&#10;color: var(--near-black);" description="/* Tachyons - skins: .near-black */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dark-gray" value="/* Tachyons - skins: .dark-gray */&#10;color: var(--dark-gray);" description="/* Tachyons - skins: .dark-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".mid-gray" value="/* Tachyons - skins: .mid-gray */&#10;color: var(--mid-gray);" description="/* Tachyons - skins: .mid-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".gray" value="/* Tachyons - skins: .gray */&#10;color: var(--gray);" description="/* Tachyons - skins: .gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".silver" value="/* Tachyons - skins: .silver */&#10;color: var(--silver);" description="/* Tachyons - skins: .silver */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-silver" value="/* Tachyons - skins: .light-silver */&#10;color: var(--light-silver);" description="/* Tachyons - skins: .light-silver */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".moon-gray" value="/* Tachyons - skins: .moon-gray */&#10;color: var(--moon-gray);" description="/* Tachyons - skins: .moon-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-gray" value="/* Tachyons - skins: .light-gray */&#10;color: var(--light-gray);" description="/* Tachyons - skins: .light-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".near-white" value="/* Tachyons - skins: .near-white */&#10;color: var(--near-white);" description="/* Tachyons - skins: .near-white */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".white" value="/* Tachyons - skins: .white */&#10;color: var(--white);" description="/* Tachyons - skins: .white */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dark-red" value="/* Tachyons - skins: .dark-red */&#10;color: var(--dark-red);" description="/* Tachyons - skins: .dark-red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".red" value="/* Tachyons - skins: .red */&#10;color: var(--red);" description="/* Tachyons - skins: .red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-red" value="/* Tachyons - skins: .light-red */&#10;color: var(--light-red);" description="/* Tachyons - skins: .light-red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".orange" value="/* Tachyons - skins: .orange */&#10;color: var(--orange);" description="/* Tachyons - skins: .orange */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".gold" value="/* Tachyons - skins: .gold */&#10;color: var(--gold);" description="/* Tachyons - skins: .gold */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".yellow" value="/* Tachyons - skins: .yellow */&#10;color: var(--yellow);" description="/* Tachyons - skins: .yellow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-yellow" value="/* Tachyons - skins: .light-yellow */&#10;color: var(--light-yellow);" description="/* Tachyons - skins: .light-yellow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".purple" value="/* Tachyons - skins: .purple */&#10;color: var(--purple);" description="/* Tachyons - skins: .purple */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-purple" value="/* Tachyons - skins: .light-purple */&#10;color: var(--light-purple);" description="/* Tachyons - skins: .light-purple */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dark-pink" value="/* Tachyons - skins: .dark-pink */&#10;color: var(--dark-pink);" description="/* Tachyons - skins: .dark-pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hot-pink" value="/* Tachyons - skins: .hot-pink */&#10;color: var(--hot-pink);" description="/* Tachyons - skins: .hot-pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".pink" value="/* Tachyons - skins: .pink */&#10;color: var(--pink);" description="/* Tachyons - skins: .pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-pink" value="/* Tachyons - skins: .light-pink */&#10;color: var(--light-pink);" description="/* Tachyons - skins: .light-pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dark-green" value="/* Tachyons - skins: .dark-green */&#10;color: var(--dark-green);" description="/* Tachyons - skins: .dark-green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".green" value="/* Tachyons - skins: .green */&#10;color: var(--green);" description="/* Tachyons - skins: .green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-green" value="/* Tachyons - skins: .light-green */&#10;color: var(--light-green);" description="/* Tachyons - skins: .light-green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".navy" value="/* Tachyons - skins: .navy */&#10;color: var(--navy);" description="/* Tachyons - skins: .navy */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dark-blue" value="/* Tachyons - skins: .dark-blue */&#10;color: var(--dark-blue);" description="/* Tachyons - skins: .dark-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".blue" value="/* Tachyons - skins: .blue */&#10;color: var(--blue);" description="/* Tachyons - skins: .blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".light-blue" value="/* Tachyons - skins: .light-blue */&#10;color: var(--light-blue);" description="/* Tachyons - skins: .light-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".lightest-blue" value="/* Tachyons - skins: .lightest-blue */&#10;color: var(--lightest-blue);" description="/* Tachyons - skins: .lightest-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".washed-blue" value="/* Tachyons - skins: .washed-blue */&#10;color: var(--washed-blue);" description="/* Tachyons - skins: .washed-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".washed-green" value="/* Tachyons - skins: .washed-green */&#10;color: var(--washed-green);" description="/* Tachyons - skins: .washed-green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".washed-yellow" value="/* Tachyons - skins: .washed-yellow */&#10;color: var(--washed-yellow);" description="/* Tachyons - skins: .washed-yellow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".washed-red" value="/* Tachyons - skins: .washed-red */&#10;color: var(--washed-red);" description="/* Tachyons - skins: .washed-red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-90" value="/* Tachyons - skins: .bg-black-90 */&#10;background-color: var(--black-90);" description="/* Tachyons - skins: .bg-black-90 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-80" value="/* Tachyons - skins: .bg-black-80 */&#10;background-color: var(--black-80);" description="/* Tachyons - skins: .bg-black-80 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-70" value="/* Tachyons - skins: .bg-black-70 */&#10;background-color: var(--black-70);" description="/* Tachyons - skins: .bg-black-70 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-60" value="/* Tachyons - skins: .bg-black-60 */&#10;background-color: var(--black-60);" description="/* Tachyons - skins: .bg-black-60 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-50" value="/* Tachyons - skins: .bg-black-50 */&#10;background-color: var(--black-50);" description="/* Tachyons - skins: .bg-black-50 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-40" value="/* Tachyons - skins: .bg-black-40 */&#10;background-color: var(--black-40);" description="/* Tachyons - skins: .bg-black-40 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-30" value="/* Tachyons - skins: .bg-black-30 */&#10;background-color: var(--black-30);" description="/* Tachyons - skins: .bg-black-30 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-20" value="/* Tachyons - skins: .bg-black-20 */&#10;background-color: var(--black-20);" description="/* Tachyons - skins: .bg-black-20 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-10" value="/* Tachyons - skins: .bg-black-10 */&#10;background-color: var(--black-10);" description="/* Tachyons - skins: .bg-black-10 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black-05" value="/* Tachyons - skins: .bg-black-05 */&#10;background-color: var(--black-05);" description="/* Tachyons - skins: .bg-black-05 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-90" value="/* Tachyons - skins: .bg-white-90 */&#10;background-color: var(--white-90);" description="/* Tachyons - skins: .bg-white-90 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-80" value="/* Tachyons - skins: .bg-white-80 */&#10;background-color: var(--white-80);" description="/* Tachyons - skins: .bg-white-80 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-70" value="/* Tachyons - skins: .bg-white-70 */&#10;background-color: var(--white-70);" description="/* Tachyons - skins: .bg-white-70 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-60" value="/* Tachyons - skins: .bg-white-60 */&#10;background-color: var(--white-60);" description="/* Tachyons - skins: .bg-white-60 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-50" value="/* Tachyons - skins: .bg-white-50 */&#10;background-color: var(--white-50);" description="/* Tachyons - skins: .bg-white-50 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-40" value="/* Tachyons - skins: .bg-white-40 */&#10;background-color: var(--white-40);" description="/* Tachyons - skins: .bg-white-40 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-30" value="/* Tachyons - skins: .bg-white-30 */&#10;background-color: var(--white-30);" description="/* Tachyons - skins: .bg-white-30 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-20" value="/* Tachyons - skins: .bg-white-20 */&#10;background-color: var(--white-20);" description="/* Tachyons - skins: .bg-white-20 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white-10" value="/* Tachyons - skins: .bg-white-10 */&#10;background-color: var(--white-10);" description="/* Tachyons - skins: .bg-white-10 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-black" value="/* Tachyons - skins: .bg-black */&#10;background-color: var(--black);" description="/* Tachyons - skins: .bg-black */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-near-black" value="/* Tachyons - skins: .bg-near-black */&#10;background-color: var(--near-black);" description="/* Tachyons - skins: .bg-near-black */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-dark-gray" value="/* Tachyons - skins: .bg-dark-gray */&#10;background-color: var(--dark-gray);" description="/* Tachyons - skins: .bg-dark-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-mid-gray" value="/* Tachyons - skins: .bg-mid-gray */&#10;background-color: var(--mid-gray);" description="/* Tachyons - skins: .bg-mid-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-gray" value="/* Tachyons - skins: .bg-gray */&#10;background-color: var(--gray);" description="/* Tachyons - skins: .bg-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-silver" value="/* Tachyons - skins: .bg-silver */&#10;background-color: var(--silver);" description="/* Tachyons - skins: .bg-silver */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-silver" value="/* Tachyons - skins: .bg-light-silver */&#10;background-color: var(--light-silver);" description="/* Tachyons - skins: .bg-light-silver */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-moon-gray" value="/* Tachyons - skins: .bg-moon-gray */&#10;background-color: var(--moon-gray);" description="/* Tachyons - skins: .bg-moon-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-gray" value="/* Tachyons - skins: .bg-light-gray */&#10;background-color: var(--light-gray);" description="/* Tachyons - skins: .bg-light-gray */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-near-white" value="/* Tachyons - skins: .bg-near-white */&#10;background-color: var(--near-white);" description="/* Tachyons - skins: .bg-near-white */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-white" value="/* Tachyons - skins: .bg-white */&#10;background-color: var(--white);" description="/* Tachyons - skins: .bg-white */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-transparent" value="/* Tachyons - skins: .bg-transparent */&#10;background-color: var(--transparent);" description="/* Tachyons - skins: .bg-transparent */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-dark-red" value="/* Tachyons - skins: .bg-dark-red */&#10;background-color: var(--dark-red);" description="/* Tachyons - skins: .bg-dark-red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-red" value="/* Tachyons - skins: .bg-red */&#10;background-color: var(--red);" description="/* Tachyons - skins: .bg-red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-red" value="/* Tachyons - skins: .bg-light-red */&#10;background-color: var(--light-red);" description="/* Tachyons - skins: .bg-light-red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-orange" value="/* Tachyons - skins: .bg-orange */&#10;background-color: var(--orange);" description="/* Tachyons - skins: .bg-orange */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-gold" value="/* Tachyons - skins: .bg-gold */&#10;background-color: var(--gold);" description="/* Tachyons - skins: .bg-gold */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-yellow" value="/* Tachyons - skins: .bg-yellow */&#10;background-color: var(--yellow);" description="/* Tachyons - skins: .bg-yellow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-yellow" value="/* Tachyons - skins: .bg-light-yellow */&#10;background-color: var(--light-yellow);" description="/* Tachyons - skins: .bg-light-yellow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-purple" value="/* Tachyons - skins: .bg-purple */&#10;background-color: var(--purple);" description="/* Tachyons - skins: .bg-purple */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-purple" value="/* Tachyons - skins: .bg-light-purple */&#10;background-color: var(--light-purple);" description="/* Tachyons - skins: .bg-light-purple */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-dark-pink" value="/* Tachyons - skins: .bg-dark-pink */&#10;background-color: var(--dark-pink);" description="/* Tachyons - skins: .bg-dark-pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-hot-pink" value="/* Tachyons - skins: .bg-hot-pink */&#10;background-color: var(--hot-pink);" description="/* Tachyons - skins: .bg-hot-pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-pink" value="/* Tachyons - skins: .bg-pink */&#10;background-color: var(--pink);" description="/* Tachyons - skins: .bg-pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-pink" value="/* Tachyons - skins: .bg-light-pink */&#10;background-color: var(--light-pink);" description="/* Tachyons - skins: .bg-light-pink */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-dark-green" value="/* Tachyons - skins: .bg-dark-green */&#10;background-color: var(--dark-green);" description="/* Tachyons - skins: .bg-dark-green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-green" value="/* Tachyons - skins: .bg-green */&#10;background-color: var(--green);" description="/* Tachyons - skins: .bg-green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-green" value="/* Tachyons - skins: .bg-light-green */&#10;background-color: var(--light-green);" description="/* Tachyons - skins: .bg-light-green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-navy" value="/* Tachyons - skins: .bg-navy */&#10;background-color: var(--navy);" description="/* Tachyons - skins: .bg-navy */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-dark-blue" value="/* Tachyons - skins: .bg-dark-blue */&#10;background-color: var(--dark-blue);" description="/* Tachyons - skins: .bg-dark-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-blue" value="/* Tachyons - skins: .bg-blue */&#10;background-color: var(--blue);" description="/* Tachyons - skins: .bg-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-light-blue" value="/* Tachyons - skins: .bg-light-blue */&#10;background-color: var(--light-blue);" description="/* Tachyons - skins: .bg-light-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-lightest-blue" value="/* Tachyons - skins: .bg-lightest-blue */&#10;background-color: var(--lightest-blue);" description="/* Tachyons - skins: .bg-lightest-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-washed-blue" value="/* Tachyons - skins: .bg-washed-blue */&#10;background-color: var(--washed-blue);" description="/* Tachyons - skins: .bg-washed-blue */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-washed-green" value="/* Tachyons - skins: .bg-washed-green */&#10;background-color: var(--washed-green);" description="/* Tachyons - skins: .bg-washed-green */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-washed-yellow" value="/* Tachyons - skins: .bg-washed-yellow */&#10;background-color: var(--washed-yellow);" description="/* Tachyons - skins: .bg-washed-yellow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-washed-red" value="/* Tachyons - skins: .bg-washed-red */&#10;background-color: var(--washed-red);" description="/* Tachyons - skins: .bg-washed-red */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

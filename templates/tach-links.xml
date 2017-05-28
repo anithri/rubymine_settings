@@ -1,0 +1,32 @@
+<templateSet group="tach-links">
+  <template name=".link" value="/* Tachyons - links: .link */&#10;text-decoration: none;&#10;transition: color .15s ease-in;" description="/* Tachyons - links: .link */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".link:link" value="/* Tachyons - links: .link:link */&#10;transition: color .15s ease-in;" description="/* Tachyons - links: .link:link */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".link:visited" value="/* Tachyons - links: .link:visited */&#10;transition: color .15s ease-in;" description="/* Tachyons - links: .link:visited */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".link:hover" value="/* Tachyons - links: .link:hover */&#10;transition: color .15s ease-in;" description="/* Tachyons - links: .link:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".link:active" value="/* Tachyons - links: .link:active */&#10;transition: color .15s ease-in;" description="/* Tachyons - links: .link:active */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".link:focus" value="/* Tachyons - links: .link:focus */&#10;transition: color .15s ease-in;&#10;outline: 1px dotted currentColor;" description="/* Tachyons - links: .link:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

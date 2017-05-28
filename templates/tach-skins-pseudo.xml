@@ -1,0 +1,727 @@
+<templateSet group="tach-skins-pseudo">
+  <template name=".hover-black:hover" value="/* Tachyons - skins-pseudo: .hover-black:hover */&#10;color: var(--black);" description="/* Tachyons - skins-pseudo: .hover-black:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-black:focus" value="/* Tachyons - skins-pseudo: .hover-black:focus */&#10;color: var(--black);" description="/* Tachyons - skins-pseudo: .hover-black:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-near-black:hover" value="/* Tachyons - skins-pseudo: .hover-near-black:hover */&#10;color: var(--near-black);" description="/* Tachyons - skins-pseudo: .hover-near-black:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-near-black:focus" value="/* Tachyons - skins-pseudo: .hover-near-black:focus */&#10;color: var(--near-black);" description="/* Tachyons - skins-pseudo: .hover-near-black:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-gray:hover" value="/* Tachyons - skins-pseudo: .hover-dark-gray:hover */&#10;color: var(--dark-gray);" description="/* Tachyons - skins-pseudo: .hover-dark-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-gray:focus" value="/* Tachyons - skins-pseudo: .hover-dark-gray:focus */&#10;color: var(--dark-gray);" description="/* Tachyons - skins-pseudo: .hover-dark-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-mid-gray:hover" value="/* Tachyons - skins-pseudo: .hover-mid-gray:hover */&#10;color: var(--mid-gray);" description="/* Tachyons - skins-pseudo: .hover-mid-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-mid-gray:focus" value="/* Tachyons - skins-pseudo: .hover-mid-gray:focus */&#10;color: var(--mid-gray);" description="/* Tachyons - skins-pseudo: .hover-mid-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-gray:hover" value="/* Tachyons - skins-pseudo: .hover-gray:hover */&#10;color: var(--gray);" description="/* Tachyons - skins-pseudo: .hover-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-gray:focus" value="/* Tachyons - skins-pseudo: .hover-gray:focus */&#10;color: var(--gray);" description="/* Tachyons - skins-pseudo: .hover-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-silver:hover" value="/* Tachyons - skins-pseudo: .hover-silver:hover */&#10;color: var(--silver);" description="/* Tachyons - skins-pseudo: .hover-silver:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-silver:focus" value="/* Tachyons - skins-pseudo: .hover-silver:focus */&#10;color: var(--silver);" description="/* Tachyons - skins-pseudo: .hover-silver:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-silver:hover" value="/* Tachyons - skins-pseudo: .hover-light-silver:hover */&#10;color: var(--light-silver);" description="/* Tachyons - skins-pseudo: .hover-light-silver:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-silver:focus" value="/* Tachyons - skins-pseudo: .hover-light-silver:focus */&#10;color: var(--light-silver);" description="/* Tachyons - skins-pseudo: .hover-light-silver:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-moon-gray:hover" value="/* Tachyons - skins-pseudo: .hover-moon-gray:hover */&#10;color: var(--moon-gray);" description="/* Tachyons - skins-pseudo: .hover-moon-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-moon-gray:focus" value="/* Tachyons - skins-pseudo: .hover-moon-gray:focus */&#10;color: var(--moon-gray);" description="/* Tachyons - skins-pseudo: .hover-moon-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-gray:hover" value="/* Tachyons - skins-pseudo: .hover-light-gray:hover */&#10;color: var(--light-gray);" description="/* Tachyons - skins-pseudo: .hover-light-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-gray:focus" value="/* Tachyons - skins-pseudo: .hover-light-gray:focus */&#10;color: var(--light-gray);" description="/* Tachyons - skins-pseudo: .hover-light-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-near-white:hover" value="/* Tachyons - skins-pseudo: .hover-near-white:hover */&#10;color: var(--near-white);" description="/* Tachyons - skins-pseudo: .hover-near-white:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-near-white:focus" value="/* Tachyons - skins-pseudo: .hover-near-white:focus */&#10;color: var(--near-white);" description="/* Tachyons - skins-pseudo: .hover-near-white:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-white:hover" value="/* Tachyons - skins-pseudo: .hover-white:hover */&#10;color: var(--white);" description="/* Tachyons - skins-pseudo: .hover-white:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-white:focus" value="/* Tachyons - skins-pseudo: .hover-white:focus */&#10;color: var(--white);" description="/* Tachyons - skins-pseudo: .hover-white:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-black:hover" value="/* Tachyons - skins-pseudo: .hover-bg-black:hover */&#10;background-color: var(--black);" description="/* Tachyons - skins-pseudo: .hover-bg-black:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-black:focus" value="/* Tachyons - skins-pseudo: .hover-bg-black:focus */&#10;background-color: var(--black);" description="/* Tachyons - skins-pseudo: .hover-bg-black:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-near-black:hover" value="/* Tachyons - skins-pseudo: .hover-bg-near-black:hover */&#10;background-color: var(--near-black);" description="/* Tachyons - skins-pseudo: .hover-bg-near-black:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-near-black:focus" value="/* Tachyons - skins-pseudo: .hover-bg-near-black:focus */&#10;background-color: var(--near-black);" description="/* Tachyons - skins-pseudo: .hover-bg-near-black:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-gray:hover" value="/* Tachyons - skins-pseudo: .hover-bg-dark-gray:hover */&#10;background-color: var(--dark-gray);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-gray:focus" value="/* Tachyons - skins-pseudo: .hover-bg-dark-gray:focus */&#10;background-color: var(--mid-gray);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-mid-gray:hover" value="/* Tachyons - skins-pseudo: .hover-bg-mid-gray:hover */&#10;background-color: var(--mid-gray);" description="/* Tachyons - skins-pseudo: .hover-bg-mid-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-gray:hover" value="/* Tachyons - skins-pseudo: .hover-bg-gray:hover */&#10;background-color: var(--gray);" description="/* Tachyons - skins-pseudo: .hover-bg-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-gray:focus" value="/* Tachyons - skins-pseudo: .hover-bg-gray:focus */&#10;background-color: var(--gray);" description="/* Tachyons - skins-pseudo: .hover-bg-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-silver:hover" value="/* Tachyons - skins-pseudo: .hover-bg-silver:hover */&#10;background-color: var(--silver);" description="/* Tachyons - skins-pseudo: .hover-bg-silver:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-silver:focus" value="/* Tachyons - skins-pseudo: .hover-bg-silver:focus */&#10;background-color: var(--silver);" description="/* Tachyons - skins-pseudo: .hover-bg-silver:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-silver:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-silver:hover */&#10;background-color: var(--light-silver);" description="/* Tachyons - skins-pseudo: .hover-bg-light-silver:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-silver:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-silver:focus */&#10;background-color: var(--light-silver);" description="/* Tachyons - skins-pseudo: .hover-bg-light-silver:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-moon-gray:hover" value="/* Tachyons - skins-pseudo: .hover-bg-moon-gray:hover */&#10;background-color: var(--moon-gray);" description="/* Tachyons - skins-pseudo: .hover-bg-moon-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-moon-gray:focus" value="/* Tachyons - skins-pseudo: .hover-bg-moon-gray:focus */&#10;background-color: var(--moon-gray);" description="/* Tachyons - skins-pseudo: .hover-bg-moon-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-gray:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-gray:hover */&#10;background-color: var(--light-gray);" description="/* Tachyons - skins-pseudo: .hover-bg-light-gray:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-gray:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-gray:focus */&#10;background-color: var(--light-gray);" description="/* Tachyons - skins-pseudo: .hover-bg-light-gray:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-near-white:hover" value="/* Tachyons - skins-pseudo: .hover-bg-near-white:hover */&#10;background-color: var(--near-white);" description="/* Tachyons - skins-pseudo: .hover-bg-near-white:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-near-white:focus" value="/* Tachyons - skins-pseudo: .hover-bg-near-white:focus */&#10;background-color: var(--near-white);" description="/* Tachyons - skins-pseudo: .hover-bg-near-white:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-white:hover" value="/* Tachyons - skins-pseudo: .hover-bg-white:hover */&#10;background-color: var(--white);" description="/* Tachyons - skins-pseudo: .hover-bg-white:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-white:focus" value="/* Tachyons - skins-pseudo: .hover-bg-white:focus */&#10;background-color: var(--white);" description="/* Tachyons - skins-pseudo: .hover-bg-white:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-transparent:hover" value="/* Tachyons - skins-pseudo: .hover-bg-transparent:hover */&#10;background-color: var(--transparent);" description="/* Tachyons - skins-pseudo: .hover-bg-transparent:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-transparent:focus" value="/* Tachyons - skins-pseudo: .hover-bg-transparent:focus */&#10;background-color: var(--transparent);" description="/* Tachyons - skins-pseudo: .hover-bg-transparent:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-red:hover" value="/* Tachyons - skins-pseudo: .hover-dark-red:hover */&#10;color: var(--dark-red);" description="/* Tachyons - skins-pseudo: .hover-dark-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-red:focus" value="/* Tachyons - skins-pseudo: .hover-dark-red:focus */&#10;color: var(--dark-red);" description="/* Tachyons - skins-pseudo: .hover-dark-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-red:hover" value="/* Tachyons - skins-pseudo: .hover-red:hover */&#10;color: var(--red);" description="/* Tachyons - skins-pseudo: .hover-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-red:focus" value="/* Tachyons - skins-pseudo: .hover-red:focus */&#10;color: var(--red);" description="/* Tachyons - skins-pseudo: .hover-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-red:hover" value="/* Tachyons - skins-pseudo: .hover-light-red:hover */&#10;color: var(--light-red);" description="/* Tachyons - skins-pseudo: .hover-light-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-red:focus" value="/* Tachyons - skins-pseudo: .hover-light-red:focus */&#10;color: var(--light-red);" description="/* Tachyons - skins-pseudo: .hover-light-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-orange:hover" value="/* Tachyons - skins-pseudo: .hover-orange:hover */&#10;color: var(--orange);" description="/* Tachyons - skins-pseudo: .hover-orange:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-orange:focus" value="/* Tachyons - skins-pseudo: .hover-orange:focus */&#10;color: var(--orange);" description="/* Tachyons - skins-pseudo: .hover-orange:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-gold:hover" value="/* Tachyons - skins-pseudo: .hover-gold:hover */&#10;color: var(--gold);" description="/* Tachyons - skins-pseudo: .hover-gold:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-gold:focus" value="/* Tachyons - skins-pseudo: .hover-gold:focus */&#10;color: var(--gold);" description="/* Tachyons - skins-pseudo: .hover-gold:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-yellow:hover" value="/* Tachyons - skins-pseudo: .hover-yellow:hover */&#10;color: var(--yellow);" description="/* Tachyons - skins-pseudo: .hover-yellow:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-yellow:focus" value="/* Tachyons - skins-pseudo: .hover-yellow:focus */&#10;color: var(--yellow);" description="/* Tachyons - skins-pseudo: .hover-yellow:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-yellow:hover" value="/* Tachyons - skins-pseudo: .hover-light-yellow:hover */&#10;color: var(--light-yellow);" description="/* Tachyons - skins-pseudo: .hover-light-yellow:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-yellow:focus" value="/* Tachyons - skins-pseudo: .hover-light-yellow:focus */&#10;color: var(--light-yellow);" description="/* Tachyons - skins-pseudo: .hover-light-yellow:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-purple:hover" value="/* Tachyons - skins-pseudo: .hover-purple:hover */&#10;color: var(--purple);" description="/* Tachyons - skins-pseudo: .hover-purple:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-purple:focus" value="/* Tachyons - skins-pseudo: .hover-purple:focus */&#10;color: var(--purple);" description="/* Tachyons - skins-pseudo: .hover-purple:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-purple:hover" value="/* Tachyons - skins-pseudo: .hover-light-purple:hover */&#10;color: var(--light-purple);" description="/* Tachyons - skins-pseudo: .hover-light-purple:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-purple:focus" value="/* Tachyons - skins-pseudo: .hover-light-purple:focus */&#10;color: var(--light-purple);" description="/* Tachyons - skins-pseudo: .hover-light-purple:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-pink:hover" value="/* Tachyons - skins-pseudo: .hover-dark-pink:hover */&#10;color: var(--dark-pink);" description="/* Tachyons - skins-pseudo: .hover-dark-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-pink:focus" value="/* Tachyons - skins-pseudo: .hover-dark-pink:focus */&#10;color: var(--dark-pink);" description="/* Tachyons - skins-pseudo: .hover-dark-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-hot-pink:hover" value="/* Tachyons - skins-pseudo: .hover-hot-pink:hover */&#10;color: var(--hot-pink);" description="/* Tachyons - skins-pseudo: .hover-hot-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-hot-pink:focus" value="/* Tachyons - skins-pseudo: .hover-hot-pink:focus */&#10;color: var(--hot-pink);" description="/* Tachyons - skins-pseudo: .hover-hot-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-pink:hover" value="/* Tachyons - skins-pseudo: .hover-pink:hover */&#10;color: var(--pink);" description="/* Tachyons - skins-pseudo: .hover-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-pink:focus" value="/* Tachyons - skins-pseudo: .hover-pink:focus */&#10;color: var(--pink);" description="/* Tachyons - skins-pseudo: .hover-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-pink:hover" value="/* Tachyons - skins-pseudo: .hover-light-pink:hover */&#10;color: var(--light-pink);" description="/* Tachyons - skins-pseudo: .hover-light-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-pink:focus" value="/* Tachyons - skins-pseudo: .hover-light-pink:focus */&#10;color: var(--light-pink);" description="/* Tachyons - skins-pseudo: .hover-light-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-green:hover" value="/* Tachyons - skins-pseudo: .hover-dark-green:hover */&#10;color: var(--dark-green);" description="/* Tachyons - skins-pseudo: .hover-dark-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-green:focus" value="/* Tachyons - skins-pseudo: .hover-dark-green:focus */&#10;color: var(--dark-green);" description="/* Tachyons - skins-pseudo: .hover-dark-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-green:hover" value="/* Tachyons - skins-pseudo: .hover-green:hover */&#10;color: var(--green);" description="/* Tachyons - skins-pseudo: .hover-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-green:focus" value="/* Tachyons - skins-pseudo: .hover-green:focus */&#10;color: var(--green);" description="/* Tachyons - skins-pseudo: .hover-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-green:hover" value="/* Tachyons - skins-pseudo: .hover-light-green:hover */&#10;color: var(--light-green);" description="/* Tachyons - skins-pseudo: .hover-light-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-green:focus" value="/* Tachyons - skins-pseudo: .hover-light-green:focus */&#10;color: var(--light-green);" description="/* Tachyons - skins-pseudo: .hover-light-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-navy:hover" value="/* Tachyons - skins-pseudo: .hover-navy:hover */&#10;color: var(--navy);" description="/* Tachyons - skins-pseudo: .hover-navy:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-navy:focus" value="/* Tachyons - skins-pseudo: .hover-navy:focus */&#10;color: var(--navy);" description="/* Tachyons - skins-pseudo: .hover-navy:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-blue:hover" value="/* Tachyons - skins-pseudo: .hover-dark-blue:hover */&#10;color: var(--dark-blue);" description="/* Tachyons - skins-pseudo: .hover-dark-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-dark-blue:focus" value="/* Tachyons - skins-pseudo: .hover-dark-blue:focus */&#10;color: var(--dark-blue);" description="/* Tachyons - skins-pseudo: .hover-dark-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-blue:hover" value="/* Tachyons - skins-pseudo: .hover-blue:hover */&#10;color: var(--blue);" description="/* Tachyons - skins-pseudo: .hover-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-blue:focus" value="/* Tachyons - skins-pseudo: .hover-blue:focus */&#10;color: var(--blue);" description="/* Tachyons - skins-pseudo: .hover-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-blue:hover" value="/* Tachyons - skins-pseudo: .hover-light-blue:hover */&#10;color: var(--light-blue);" description="/* Tachyons - skins-pseudo: .hover-light-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-light-blue:focus" value="/* Tachyons - skins-pseudo: .hover-light-blue:focus */&#10;color: var(--light-blue);" description="/* Tachyons - skins-pseudo: .hover-light-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-lightest-blue:hover" value="/* Tachyons - skins-pseudo: .hover-lightest-blue:hover */&#10;color: var(--lightest-blue);" description="/* Tachyons - skins-pseudo: .hover-lightest-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-lightest-blue:focus" value="/* Tachyons - skins-pseudo: .hover-lightest-blue:focus */&#10;color: var(--lightest-blue);" description="/* Tachyons - skins-pseudo: .hover-lightest-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-blue:hover" value="/* Tachyons - skins-pseudo: .hover-washed-blue:hover */&#10;color: var(--washed-blue);" description="/* Tachyons - skins-pseudo: .hover-washed-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-blue:focus" value="/* Tachyons - skins-pseudo: .hover-washed-blue:focus */&#10;color: var(--washed-blue);" description="/* Tachyons - skins-pseudo: .hover-washed-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-green:hover" value="/* Tachyons - skins-pseudo: .hover-washed-green:hover */&#10;color: var(--washed-green);" description="/* Tachyons - skins-pseudo: .hover-washed-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-green:focus" value="/* Tachyons - skins-pseudo: .hover-washed-green:focus */&#10;color: var(--washed-green);" description="/* Tachyons - skins-pseudo: .hover-washed-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-yellow:hover" value="/* Tachyons - skins-pseudo: .hover-washed-yellow:hover */&#10;color: var(--washed-yellow);" description="/* Tachyons - skins-pseudo: .hover-washed-yellow:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-yellow:focus" value="/* Tachyons - skins-pseudo: .hover-washed-yellow:focus */&#10;color: var(--washed-yellow);" description="/* Tachyons - skins-pseudo: .hover-washed-yellow:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-red:hover" value="/* Tachyons - skins-pseudo: .hover-washed-red:hover */&#10;color: var(--washed-red);" description="/* Tachyons - skins-pseudo: .hover-washed-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-washed-red:focus" value="/* Tachyons - skins-pseudo: .hover-washed-red:focus */&#10;color: var(--washed-red);" description="/* Tachyons - skins-pseudo: .hover-washed-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-red:hover" value="/* Tachyons - skins-pseudo: .hover-bg-dark-red:hover */&#10;background-color: var(--dark-red);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-red:focus" value="/* Tachyons - skins-pseudo: .hover-bg-dark-red:focus */&#10;background-color: var(--dark-red);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-red:hover" value="/* Tachyons - skins-pseudo: .hover-bg-red:hover */&#10;background-color: var(--red);" description="/* Tachyons - skins-pseudo: .hover-bg-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-red:focus" value="/* Tachyons - skins-pseudo: .hover-bg-red:focus */&#10;background-color: var(--red);" description="/* Tachyons - skins-pseudo: .hover-bg-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-red:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-red:hover */&#10;background-color: var(--light-red);" description="/* Tachyons - skins-pseudo: .hover-bg-light-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-red:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-red:focus */&#10;background-color: var(--light-red);" description="/* Tachyons - skins-pseudo: .hover-bg-light-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-orange:hover" value="/* Tachyons - skins-pseudo: .hover-bg-orange:hover */&#10;background-color: var(--orange);" description="/* Tachyons - skins-pseudo: .hover-bg-orange:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-orange:focus" value="/* Tachyons - skins-pseudo: .hover-bg-orange:focus */&#10;background-color: var(--orange);" description="/* Tachyons - skins-pseudo: .hover-bg-orange:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-gold:hover" value="/* Tachyons - skins-pseudo: .hover-bg-gold:hover */&#10;background-color: var(--gold);" description="/* Tachyons - skins-pseudo: .hover-bg-gold:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-gold:focus" value="/* Tachyons - skins-pseudo: .hover-bg-gold:focus */&#10;background-color: var(--gold);" description="/* Tachyons - skins-pseudo: .hover-bg-gold:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-yellow:hover" value="/* Tachyons - skins-pseudo: .hover-bg-yellow:hover */&#10;background-color: var(--yellow);" description="/* Tachyons - skins-pseudo: .hover-bg-yellow:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-yellow:focus" value="/* Tachyons - skins-pseudo: .hover-bg-yellow:focus */&#10;background-color: var(--yellow);" description="/* Tachyons - skins-pseudo: .hover-bg-yellow:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-yellow:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-yellow:hover */&#10;background-color: var(--light-yellow);" description="/* Tachyons - skins-pseudo: .hover-bg-light-yellow:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-yellow:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-yellow:focus */&#10;background-color: var(--light-yellow);" description="/* Tachyons - skins-pseudo: .hover-bg-light-yellow:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-purple:hover" value="/* Tachyons - skins-pseudo: .hover-bg-purple:hover */&#10;background-color: var(--purple);" description="/* Tachyons - skins-pseudo: .hover-bg-purple:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-purple:focus" value="/* Tachyons - skins-pseudo: .hover-bg-purple:focus */&#10;background-color: var(--purple);" description="/* Tachyons - skins-pseudo: .hover-bg-purple:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-purple:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-purple:hover */&#10;background-color: var(--light-purple);" description="/* Tachyons - skins-pseudo: .hover-bg-light-purple:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-purple:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-purple:focus */&#10;background-color: var(--light-purple);" description="/* Tachyons - skins-pseudo: .hover-bg-light-purple:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-pink:hover" value="/* Tachyons - skins-pseudo: .hover-bg-dark-pink:hover */&#10;background-color: var(--dark-pink);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-pink:focus" value="/* Tachyons - skins-pseudo: .hover-bg-dark-pink:focus */&#10;background-color: var(--dark-pink);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-hot-pink:hover" value="/* Tachyons - skins-pseudo: .hover-bg-hot-pink:hover */&#10;background-color: var(--hot-pink);" description="/* Tachyons - skins-pseudo: .hover-bg-hot-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-hot-pink:focus" value="/* Tachyons - skins-pseudo: .hover-bg-hot-pink:focus */&#10;background-color: var(--hot-pink);" description="/* Tachyons - skins-pseudo: .hover-bg-hot-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-pink:hover" value="/* Tachyons - skins-pseudo: .hover-bg-pink:hover */&#10;background-color: var(--pink);" description="/* Tachyons - skins-pseudo: .hover-bg-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-pink:focus" value="/* Tachyons - skins-pseudo: .hover-bg-pink:focus */&#10;background-color: var(--pink);" description="/* Tachyons - skins-pseudo: .hover-bg-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-pink:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-pink:hover */&#10;background-color: var(--light-pink);" description="/* Tachyons - skins-pseudo: .hover-bg-light-pink:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-pink:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-pink:focus */&#10;background-color: var(--light-pink);" description="/* Tachyons - skins-pseudo: .hover-bg-light-pink:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-green:hover" value="/* Tachyons - skins-pseudo: .hover-bg-dark-green:hover */&#10;background-color: var(--dark-green);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-green:focus" value="/* Tachyons - skins-pseudo: .hover-bg-dark-green:focus */&#10;background-color: var(--dark-green);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-green:hover" value="/* Tachyons - skins-pseudo: .hover-bg-green:hover */&#10;background-color: var(--green);" description="/* Tachyons - skins-pseudo: .hover-bg-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-green:focus" value="/* Tachyons - skins-pseudo: .hover-bg-green:focus */&#10;background-color: var(--green);" description="/* Tachyons - skins-pseudo: .hover-bg-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-green:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-green:hover */&#10;background-color: var(--light-green);" description="/* Tachyons - skins-pseudo: .hover-bg-light-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-green:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-green:focus */&#10;background-color: var(--light-green);" description="/* Tachyons - skins-pseudo: .hover-bg-light-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-navy:hover" value="/* Tachyons - skins-pseudo: .hover-bg-navy:hover */&#10;background-color: var(--navy);" description="/* Tachyons - skins-pseudo: .hover-bg-navy:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-navy:focus" value="/* Tachyons - skins-pseudo: .hover-bg-navy:focus */&#10;background-color: var(--navy);" description="/* Tachyons - skins-pseudo: .hover-bg-navy:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-blue:hover" value="/* Tachyons - skins-pseudo: .hover-bg-dark-blue:hover */&#10;background-color: var(--dark-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-dark-blue:focus" value="/* Tachyons - skins-pseudo: .hover-bg-dark-blue:focus */&#10;background-color: var(--dark-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-dark-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-blue:hover" value="/* Tachyons - skins-pseudo: .hover-bg-blue:hover */&#10;background-color: var(--blue);" description="/* Tachyons - skins-pseudo: .hover-bg-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-blue:focus" value="/* Tachyons - skins-pseudo: .hover-bg-blue:focus */&#10;background-color: var(--blue);" description="/* Tachyons - skins-pseudo: .hover-bg-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-blue:hover" value="/* Tachyons - skins-pseudo: .hover-bg-light-blue:hover */&#10;background-color: var(--light-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-light-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-light-blue:focus" value="/* Tachyons - skins-pseudo: .hover-bg-light-blue:focus */&#10;background-color: var(--light-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-light-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-lightest-blue:hover" value="/* Tachyons - skins-pseudo: .hover-bg-lightest-blue:hover */&#10;background-color: var(--lightest-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-lightest-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-lightest-blue:focus" value="/* Tachyons - skins-pseudo: .hover-bg-lightest-blue:focus */&#10;background-color: var(--lightest-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-lightest-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-blue:hover" value="/* Tachyons - skins-pseudo: .hover-bg-washed-blue:hover */&#10;background-color: var(--washed-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-blue:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-blue:focus" value="/* Tachyons - skins-pseudo: .hover-bg-washed-blue:focus */&#10;background-color: var(--washed-blue);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-blue:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-green:hover" value="/* Tachyons - skins-pseudo: .hover-bg-washed-green:hover */&#10;background-color: var(--washed-green);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-green:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-green:focus" value="/* Tachyons - skins-pseudo: .hover-bg-washed-green:focus */&#10;background-color: var(--washed-green);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-green:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-yellow:hover" value="/* Tachyons - skins-pseudo: .hover-bg-washed-yellow:hover */&#10;background-color: var(--washed-yellow);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-yellow:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-yellow:focus" value="/* Tachyons - skins-pseudo: .hover-bg-washed-yellow:focus */&#10;background-color: var(--washed-yellow);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-yellow:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-red:hover" value="/* Tachyons - skins-pseudo: .hover-bg-washed-red:hover */&#10;background-color: var(--washed-red);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-red:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hover-bg-washed-red:focus" value="/* Tachyons - skins-pseudo: .hover-bg-washed-red:focus */&#10;background-color: var(--washed-red);" description="/* Tachyons - skins-pseudo: .hover-bg-washed-red:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

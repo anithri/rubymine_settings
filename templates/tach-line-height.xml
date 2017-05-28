@@ -1,0 +1,17 @@
+<templateSet group="tach-line-height">
+  <template name=".lh-solid" value="/* Tachyons - line-height: .lh-solid */&#10;line-height: var(--line-height-solid);" description="/* Tachyons - line-height: .lh-solid */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".lh-title" value="/* Tachyons - line-height: .lh-title */&#10;line-height: var(--line-height-title);" description="/* Tachyons - line-height: .lh-title */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".lh-copy" value="/* Tachyons - line-height: .lh-copy */&#10;line-height: var(--line-height-copy);" description="/* Tachyons - line-height: .lh-copy */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

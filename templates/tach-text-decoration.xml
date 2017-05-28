@@ -1,0 +1,17 @@
+<templateSet group="tach-text-decoration">
+  <template name=".strike" value="/* Tachyons - text-decoration: .strike */&#10;text-decoration: line-through;" description="/* Tachyons - text-decoration: .strike */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".underline" value="/* Tachyons - text-decoration: .underline */&#10;text-decoration: underline;" description="/* Tachyons - text-decoration: .underline */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".no-underline" value="/* Tachyons - text-decoration: .no-underline */&#10;text-decoration: none;" description="/* Tachyons - text-decoration: .no-underline */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

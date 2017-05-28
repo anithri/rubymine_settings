@@ -1,0 +1,62 @@
+<templateSet group="tach-display">
+  <template name=".dn" value="/* Tachyons - display: .dn */&#10;display: none;" description="/* Tachyons - display: .dn */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".di" value="/* Tachyons - display: .di */&#10;display: inline;" description="/* Tachyons - display: .di */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".db" value="/* Tachyons - display: .db */&#10;display: block;" description="/* Tachyons - display: .db */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dib" value="/* Tachyons - display: .dib */&#10;display: inline-block;" description="/* Tachyons - display: .dib */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dit" value="/* Tachyons - display: .dit */&#10;display: inline-table;" description="/* Tachyons - display: .dit */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dt" value="/* Tachyons - display: .dt */&#10;display: table;" description="/* Tachyons - display: .dt */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dtc" value="/* Tachyons - display: .dtc */&#10;display: table-cell;" description="/* Tachyons - display: .dtc */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dt-row" value="/* Tachyons - display: .dt-row */&#10;display: table-row;" description="/* Tachyons - display: .dt-row */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dt-row-group" value="/* Tachyons - display: .dt-row-group */&#10;display: table-row-group;" description="/* Tachyons - display: .dt-row-group */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dt-column" value="/* Tachyons - display: .dt-column */&#10;display: table-column;" description="/* Tachyons - display: .dt-column */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dt-column-group" value="/* Tachyons - display: .dt-column-group */&#10;display: table-column-group;" description="/* Tachyons - display: .dt-column-group */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dt--fixed" value="/* Tachyons - display: .dt--fixed */&#10;table-layout: fixed;&#10;width: 100%;" description="/* Tachyons - display: .dt--fixed */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

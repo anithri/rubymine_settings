@@ -1,0 +1,17 @@
+<templateSet group="tach-letter-spacing">
+  <template name=".tracked" value="/* Tachyons - letter-spacing: .tracked */&#10;letter-spacing: var(--letter-spacing-1);" description="/* Tachyons - letter-spacing: .tracked */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".tracked-tight" value="/* Tachyons - letter-spacing: .tracked-tight */&#10;letter-spacing: var(--letter-spacing-tight);" description="/* Tachyons - letter-spacing: .tracked-tight */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".tracked-mega" value="/* Tachyons - letter-spacing: .tracked-mega */&#10;letter-spacing: var(--letter-spacing-2);" description="/* Tachyons - letter-spacing: .tracked-mega */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

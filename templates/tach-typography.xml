@@ -1,0 +1,32 @@
+<templateSet group="tach-typography">
+  <template name=".measure" value="/* Tachyons - typography: .measure */&#10;max-width: var(--measure);" description="/* Tachyons - typography: .measure */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".measure-wide" value="/* Tachyons - typography: .measure-wide */&#10;max-width: var(--measure-wide);" description="/* Tachyons - typography: .measure-wide */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".measure-narrow" value="/* Tachyons - typography: .measure-narrow */&#10;max-width: var(--measure-narrow);" description="/* Tachyons - typography: .measure-narrow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".indent" value="/* Tachyons - typography: .indent */&#10;text-indent: 1em;&#10;margin-top: 0;&#10;margin-bottom: 0;" description="/* Tachyons - typography: .indent */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".small-caps" value="/* Tachyons - typography: .small-caps */&#10;font-variant: small-caps;" description="/* Tachyons - typography: .small-caps */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".truncate" value="/* Tachyons - typography: .truncate */&#10;white-space: nowrap;&#10;overflow: hidden;&#10;text-overflow: ellipsis;" description="/* Tachyons - typography: .truncate */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

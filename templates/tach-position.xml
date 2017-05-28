@@ -1,0 +1,22 @@
+<templateSet group="tach-position">
+  <template name=".static" value="/* Tachyons - position: .static */&#10;position: static;" description="/* Tachyons - position: .static */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".relative" value="/* Tachyons - position: .relative */&#10;position: relative;" description="/* Tachyons - position: .relative */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".absolute" value="/* Tachyons - position: .absolute */&#10;position: absolute;" description="/* Tachyons - position: .absolute */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".fixed" value="/* Tachyons - position: .fixed */&#10;position: fixed;" description="/* Tachyons - position: .fixed */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

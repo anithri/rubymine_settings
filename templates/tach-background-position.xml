@@ -1,0 +1,27 @@
+<templateSet group="tach-background-position">
+  <template name=".bg-center" value="/* Tachyons - background-position: .bg-center */&#10;background-repeat: no-repeat;&#10;background-position: center center;" description="/* Tachyons - background-position: .bg-center */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-top" value="/* Tachyons - background-position: .bg-top */&#10;background-repeat: no-repeat;&#10;background-position: top center;" description="/* Tachyons - background-position: .bg-top */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-right" value="/* Tachyons - background-position: .bg-right */&#10;background-repeat: no-repeat;&#10;background-position: center right;" description="/* Tachyons - background-position: .bg-right */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-bottom" value="/* Tachyons - background-position: .bg-bottom */&#10;background-repeat: no-repeat;&#10;background-position: bottom center;" description="/* Tachyons - background-position: .bg-bottom */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-left" value="/* Tachyons - background-position: .bg-left */&#10;background-repeat: no-repeat;&#10;background-position: center left;" description="/* Tachyons - background-position: .bg-left */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

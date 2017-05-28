@@ -1,0 +1,52 @@
+<templateSet group="tach-border-widths">
+  <template name=".bw0" value="/* Tachyons - border-widths: .bw0 */&#10;border-width: var(--border-width-none);" description="/* Tachyons - border-widths: .bw0 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bw1" value="/* Tachyons - border-widths: .bw1 */&#10;border-width: var(--border-width-1);" description="/* Tachyons - border-widths: .bw1 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bw2" value="/* Tachyons - border-widths: .bw2 */&#10;border-width: var(--border-width-2);" description="/* Tachyons - border-widths: .bw2 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bw3" value="/* Tachyons - border-widths: .bw3 */&#10;border-width: var(--border-width-3);" description="/* Tachyons - border-widths: .bw3 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bw4" value="/* Tachyons - border-widths: .bw4 */&#10;border-width: var(--border-width-4);" description="/* Tachyons - border-widths: .bw4 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bw5" value="/* Tachyons - border-widths: .bw5 */&#10;border-width: var(--border-width-5);" description="/* Tachyons - border-widths: .bw5 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bt-0" value="/* Tachyons - border-widths: .bt-0 */&#10;border-top-width: var(--border-width-none);" description="/* Tachyons - border-widths: .bt-0 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".br-0" value="/* Tachyons - border-widths: .br-0 */&#10;border-right-width: var(--border-width-none);" description="/* Tachyons - border-widths: .br-0 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bb-0" value="/* Tachyons - border-widths: .bb-0 */&#10;border-bottom-width: var(--border-width-none);" description="/* Tachyons - border-widths: .bb-0 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bl-0" value="/* Tachyons - border-widths: .bl-0 */&#10;border-left-width: var(--border-width-none);" description="/* Tachyons - border-widths: .bl-0 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

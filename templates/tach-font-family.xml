@@ -1,0 +1,82 @@
+<templateSet group="tach-font-family">
+  <template name=".sans-serif" value="/* Tachyons - font-family: .sans-serif */&#10;font-family: var(--sans-serif);" description="/* Tachyons - font-family: .sans-serif */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".serif" value="/* Tachyons - font-family: .serif */&#10;font-family: var(--serif);" description="/* Tachyons - font-family: .serif */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".system-sans-serif" value="/* Tachyons - font-family: .system-sans-serif */&#10;font-family: sans-serif;" description="/* Tachyons - font-family: .system-sans-serif */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".system-serif" value="/* Tachyons - font-family: .system-serif */&#10;font-family: serif;" description="/* Tachyons - font-family: .system-serif */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="code" value="/* Tachyons - font-family: code */&#10;" description="/* Tachyons - font-family: code */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".code" value="/* Tachyons - font-family: .code */&#10;" description="/* Tachyons - font-family: .code */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".courier" value="/* Tachyons - font-family: .courier */&#10;" description="/* Tachyons - font-family: .courier */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".helvetica" value="/* Tachyons - font-family: .helvetica */&#10;" description="/* Tachyons - font-family: .helvetica */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".avenir" value="/* Tachyons - font-family: .avenir */&#10;" description="/* Tachyons - font-family: .avenir */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".athelas" value="/* Tachyons - font-family: .athelas */&#10;" description="/* Tachyons - font-family: .athelas */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".georgia" value="/* Tachyons - font-family: .georgia */&#10;" description="/* Tachyons - font-family: .georgia */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".times" value="/* Tachyons - font-family: .times */&#10;" description="/* Tachyons - font-family: .times */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bodoni" value="/* Tachyons - font-family: .bodoni */&#10;" description="/* Tachyons - font-family: .bodoni */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".calisto" value="/* Tachyons - font-family: .calisto */&#10;" description="/* Tachyons - font-family: .calisto */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".garamond" value="/* Tachyons - font-family: .garamond */&#10;" description="/* Tachyons - font-family: .garamond */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".baskerville" value="/* Tachyons - font-family: .baskerville */&#10;" description="/* Tachyons - font-family: .baskerville */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

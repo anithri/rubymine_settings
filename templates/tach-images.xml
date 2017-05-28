@@ -1,0 +1,7 @@
+<templateSet group="tach-images">
+  <template name="img" value="/* Tachyons - images: img */&#10;max-width: 100%;" description="/* Tachyons - images: img */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

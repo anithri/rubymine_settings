@@ -1,0 +1,32 @@
+<templateSet group="tach-borders">
+  <template name=".ba" value="/* Tachyons - borders: .ba */&#10;border-style: solid;&#10;border-width: 1px;" description="/* Tachyons - borders: .ba */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bt" value="/* Tachyons - borders: .bt */&#10;border-top-style: solid;&#10;border-top-width: 1px;" description="/* Tachyons - borders: .bt */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".br" value="/* Tachyons - borders: .br */&#10;border-right-style: solid;&#10;border-right-width: 1px;" description="/* Tachyons - borders: .br */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bb" value="/* Tachyons - borders: .bb */&#10;border-bottom-style: solid;&#10;border-bottom-width: 1px;" description="/* Tachyons - borders: .bb */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bl" value="/* Tachyons - borders: .bl */&#10;border-left-style: solid;&#10;border-left-width: 1px;" description="/* Tachyons - borders: .bl */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bn" value="/* Tachyons - borders: .bn */&#10;border-style: none;&#10;border-width: 0;" description="/* Tachyons - borders: .bn */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

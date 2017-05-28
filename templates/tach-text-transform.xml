@@ -1,0 +1,22 @@
+<templateSet group="tach-text-transform">
+  <template name=".ttc" value="/* Tachyons - text-transform: .ttc */&#10;text-transform: capitalize;" description="/* Tachyons - text-transform: .ttc */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".ttl" value="/* Tachyons - text-transform: .ttl */&#10;text-transform: lowercase;" description="/* Tachyons - text-transform: .ttl */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".ttu" value="/* Tachyons - text-transform: .ttu */&#10;text-transform: uppercase;" description="/* Tachyons - text-transform: .ttu */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".ttn" value="/* Tachyons - text-transform: .ttn */&#10;text-transform: none;" description="/* Tachyons - text-transform: .ttn */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

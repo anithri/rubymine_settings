@@ -1,0 +1,112 @@
+<templateSet group="tach-hovers">
+  <template name=".dim" value="/* Tachyons - hovers: .dim */&#10;opacity: 1;&#10;transition: opacity .15s ease-in;" description="/* Tachyons - hovers: .dim */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dim:hover" value="/* Tachyons - hovers: .dim:hover */&#10;opacity: .5;&#10;transition: opacity .15s ease-in;" description="/* Tachyons - hovers: .dim:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dim:focus" value="/* Tachyons - hovers: .dim:focus */&#10;opacity: .5;&#10;transition: opacity .15s ease-in;" description="/* Tachyons - hovers: .dim:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".dim:active" value="/* Tachyons - hovers: .dim:active */&#10;opacity: .8;&#10;transition: opacity .15s ease-out;" description="/* Tachyons - hovers: .dim:active */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hide-child .child" value="/* Tachyons - hovers: .hide-child .child */&#10;opacity: 0;&#10;transition: opacity .15s ease-in;" description="/* Tachyons - hovers: .hide-child .child */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hide-child:hover .child" value="/* Tachyons - hovers: .hide-child:hover .child */&#10;opacity: 1;&#10;transition: opacity .15s ease-in;" description="/* Tachyons - hovers: .hide-child:hover .child */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hide-child:focus .child" value="/* Tachyons - hovers: .hide-child:focus .child */&#10;opacity: 1;&#10;transition: opacity .15s ease-in;" description="/* Tachyons - hovers: .hide-child:focus .child */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".hide-child:active .child" value="/* Tachyons - hovers: .hide-child:active .child */&#10;opacity: 1;&#10;transition: opacity .15s ease-in;" description="/* Tachyons - hovers: .hide-child:active .child */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".underline-hover:hover" value="/* Tachyons - hovers: .underline-hover:hover */&#10;text-decoration: underline;" description="/* Tachyons - hovers: .underline-hover:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".underline-hover:focus" value="/* Tachyons - hovers: .underline-hover:focus */&#10;text-decoration: underline;" description="/* Tachyons - hovers: .underline-hover:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow" value="/* Tachyons - hovers: .grow */&#10;-moz-osx-font-smoothing: grayscale;&#10;backface-visibility: hidden;&#10;transform: translateZ(0);&#10;transition: transform 0.25s ease-out;" description="/* Tachyons - hovers: .grow */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow:hover" value="/* Tachyons - hovers: .grow:hover */&#10;transform: scale(1.05);" description="/* Tachyons - hovers: .grow:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow:focus" value="/* Tachyons - hovers: .grow:focus */&#10;transform: scale(1.05);" description="/* Tachyons - hovers: .grow:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow:active" value="/* Tachyons - hovers: .grow:active */&#10;transform: scale(.90);" description="/* Tachyons - hovers: .grow:active */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow-large" value="/* Tachyons - hovers: .grow-large */&#10;-moz-osx-font-smoothing: grayscale;&#10;backface-visibility: hidden;&#10;transform: translateZ(0);&#10;transition: transform .25s ease-in-out;" description="/* Tachyons - hovers: .grow-large */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow-large:hover" value="/* Tachyons - hovers: .grow-large:hover */&#10;transform: scale(1.2);" description="/* Tachyons - hovers: .grow-large:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow-large:focus" value="/* Tachyons - hovers: .grow-large:focus */&#10;transform: scale(1.2);" description="/* Tachyons - hovers: .grow-large:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".grow-large:active" value="/* Tachyons - hovers: .grow-large:active */&#10;transform: scale(.95);" description="/* Tachyons - hovers: .grow-large:active */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".pointer:hover" value="/* Tachyons - hovers: .pointer:hover */&#10;cursor: pointer;" description="/* Tachyons - hovers: .pointer:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-animate" value="/* Tachyons - hovers: .bg-animate */&#10;transition: background-color .15s ease-in-out;" description="/* Tachyons - hovers: .bg-animate */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-animate:hover" value="/* Tachyons - hovers: .bg-animate:hover */&#10;transition: background-color .15s ease-in-out;" description="/* Tachyons - hovers: .bg-animate:hover */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".bg-animate:focus" value="/* Tachyons - hovers: .bg-animate:focus */&#10;transition: background-color .15s ease-in-out;" description="/* Tachyons - hovers: .bg-animate:focus */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,62 @@
+<templateSet group="tach-z-index">
+  <template name=".z-0" value="/* Tachyons - z-index: .z-0 */&#10;z-index: 0;" description="/* Tachyons - z-index: .z-0 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-1" value="/* Tachyons - z-index: .z-1 */&#10;z-index: 1;" description="/* Tachyons - z-index: .z-1 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-2" value="/* Tachyons - z-index: .z-2 */&#10;z-index: 2;" description="/* Tachyons - z-index: .z-2 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-3" value="/* Tachyons - z-index: .z-3 */&#10;z-index: 3;" description="/* Tachyons - z-index: .z-3 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-4" value="/* Tachyons - z-index: .z-4 */&#10;z-index: 4;" description="/* Tachyons - z-index: .z-4 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-5" value="/* Tachyons - z-index: .z-5 */&#10;z-index: 5;" description="/* Tachyons - z-index: .z-5 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-999" value="/* Tachyons - z-index: .z-999 */&#10;z-index: 999;" description="/* Tachyons - z-index: .z-999 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-9999" value="/* Tachyons - z-index: .z-9999 */&#10;z-index: 9999;" description="/* Tachyons - z-index: .z-9999 */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-max" value="/* Tachyons - z-index: .z-max */&#10;z-index: 2147483647;" description="/* Tachyons - z-index: .z-max */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-inherit" value="/* Tachyons - z-index: .z-inherit */&#10;z-index: inherit;" description="/* Tachyons - z-index: .z-inherit */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-initial" value="/* Tachyons - z-index: .z-initial */&#10;z-index: initial;" description="/* Tachyons - z-index: .z-initial */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name=".z-unset" value="/* Tachyons - z-index: .z-unset */&#10;z-index: unset;" description="/* Tachyons - z-index: .z-unset */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
