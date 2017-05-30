@@ -10242,6 +10242,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.1, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, RVM: ruby-2.4.0 [tunnels]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/coderay-1.1.1/bin" />
@@ -31606,6 +31616,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/method_source-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.1, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@casinoapp/gems/method_source-0.8.2/lib" />
@@ -32164,6 +32182,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/middleman-pry-1.0.1/features" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/middleman-pry-1.0.1/fixtures" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/middleman-pry-1.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="middleman-pry (v1.0.1, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/fixtures" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/fixtures" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-pry-1.0.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="middleman-sprockets (v4.0.0.rc.1, RVM: ruby-2.3.1 [jmh-gallery]) [gem]">
@@ -38961,6 +38993,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/pry-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/pry-0.10.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.4, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/pry-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.4, RVM: ruby-2.4.0 [tunnels]) [gem]">
@@ -53026,6 +53068,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, RVM: ruby-2.4.0 [tunnels]) [gem]">
