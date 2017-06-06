@@ -1,7 +1,0 @@
-<templateSet group="tach-lists">
-  <template name=".list" value="/* Tachyons - lists: .list */&#10;list-style-type: none;" description="/* Tachyons - lists: .list */" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-    </context>
-  </template>
-</templateSet>

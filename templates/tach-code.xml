@@ -1,7 +1,0 @@
-<templateSet group="tach-code">
-  <template name=".pre" value="/* Tachyons - code: .pre */&#10;overflow-x: auto;&#10;overflow-y: hidden;&#10;overflow: scroll;" description="/* Tachyons - code: .pre */" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-    </context>
-  </template>
-</templateSet>

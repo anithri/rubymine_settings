@@ -1,7 +1,0 @@
-<templateSet group="tach-visibility">
-  <template name=".clip" value="/* Tachyons - visibility: .clip */&#10;position: fixed !important;&#10;_position: absolute !important;&#10;clip: rect(1px, 1px, 1px, 1px);" description="/* Tachyons - visibility: .clip */" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-    </context>
-  </template>
-</templateSet>
