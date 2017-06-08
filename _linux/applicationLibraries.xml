@@ -4194,6 +4194,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/backports-3.8.0/frozen_old_spec" />
       </SOURCES>
     </library>
+    <library name="backports (v3.8.0, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.8.0/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.8.0/frozen_old_spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.8.0/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/backports-3.8.0/frozen_old_spec" />
+      </SOURCES>
+    </library>
     <library name="barista (v1.2.1, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@pc2/gems/barista-1.2.1/lib" />
@@ -21152,6 +21164,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/haml-5.0.1/yard" />
+      </SOURCES>
+    </library>
+    <library name="haml (v5.0.1, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/haml-5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/haml-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/haml-5.0.1/yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/haml-5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/haml-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/haml-5.0.1/yard" />
       </SOURCES>
     </library>
     <library name="haml-rails (v0.3.4, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
@@ -54810,6 +54834,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/temple-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.8.0, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/temple-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/temple-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="terminal-table (v1.4.5, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
