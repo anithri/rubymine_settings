@@ -2464,6 +2464,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/activesupport-5.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.0.3, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/activesupport-5.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/activesupport-5.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.1.0.beta1, RVM: ruby-2.4.0 [tunnels]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@tunnels/gems/activesupport-5.1.0.beta1/lib" />
@@ -3830,6 +3838,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/autoprefixer-rails-6.7.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/autoprefixer-rails-6.7.7.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v7.1.1, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/autoprefixer-rails-7.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/autoprefixer-rails-7.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/autoprefixer-rails-7.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/autoprefixer-rails-7.1.1/vendor" />
       </SOURCES>
     </library>
     <library name="awesome_print (v1.0.2, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
@@ -13966,6 +13984,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/dotenv-2.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/dotenv-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv (v2.2.1, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/dotenv-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/dotenv-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/dotenv-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/dotenv-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="dotenv-rails (v1.0.2, RVM: ruby-2.2.3 [headwind]) [gem]">
@@ -31988,6 +32016,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-autoprefixer-2.7.1/fixtures" />
       </SOURCES>
     </library>
+    <library name="middleman-autoprefixer (v2.8.0, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-autoprefixer-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-autoprefixer-2.8.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-autoprefixer-2.8.0/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-autoprefixer-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-autoprefixer-2.8.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/middleman-autoprefixer-2.8.0/fixtures" />
+      </SOURCES>
+    </library>
     <library name="middleman-blog (v4.0.1, RVM: ruby-2.4.0 [jmh]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/middleman-blog-4.0.1/lib" />
@@ -33266,6 +33306,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/minitest-5.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.10.2, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/minitest-5.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/minitest-5.10.2/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.4.3, RVM: ruby-1.9.3-p194 [casinoapp]) [gem]">
@@ -37565,6 +37613,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/parallel-1.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.11.2, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/parallel-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/parallel-1.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.8.0, RVM: ruby-2.2.3 [tunnel_logs]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@tunnel_logs/gems/parallel-1.8.0/lib" />
@@ -41467,6 +41523,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@jmh/gems/rack-2.0.2/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.3, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/rack-2.0.3/example" />
       </SOURCES>
     </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.2.3 [brigade]) [gem]">
@@ -51218,6 +51288,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/sass-3.4.23/extra" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/sass-3.4.23/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/sass-3.4.23/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.24, RVM: ruby-2.4.0 [speedway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@speedway/gems/sass-3.4.24/vendor" />
       </SOURCES>
     </library>
     <library name="sass-rails (v3.2.5, RVM: ruby-1.9.3-p194 [pc2]) [gem]">
