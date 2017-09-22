@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="begex" value="begin&#10;  $END$&#10;rescue Exception =&gt; e&#10;&#10;end" description="Begin Rescue Exception end" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
