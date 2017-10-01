@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="__name__/*" type="EJS" />
+      <mapping ext="sample" type="JSON" />
       <mapping ext="reduxrc" type="JSON" />
       <mapping ext="blueprintrc" type="JSON" />
       <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
