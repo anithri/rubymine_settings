@@ -31,7 +31,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="100" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
