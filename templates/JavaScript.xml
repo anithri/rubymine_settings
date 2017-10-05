@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="stab" value="($ARGS$) =&gt; {$END$}" description="stabby function" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+</templateSet>
