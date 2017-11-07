@@ -6,6 +6,7 @@
       <mapping ext="blueprintrc" type="JSON" />
       <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="__name__/*" type="EJS" />
     </extensionMap>
