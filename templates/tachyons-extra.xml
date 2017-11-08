@@ -1,35 +1,45 @@
 <templateSet group="tachyons-extra">
   <template name="@m" value="@media (--breakpoint-not-small) {&#10;}&#10;&#10;@media (--breakpoint-medium) {&#10;}&#10;&#10;@medium (--breakpoint-large) {&#10;}&#10;$END$" description="all media rules in the tachyons style" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
     </context>
   </template>
   <template name="@m-ns" value="@media (--breakpoint-not-small) {&#10;    $END$&#10;}&#10;" description="@media (--breakpoint-not-small)" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
     </context>
   </template>
   <template name="@m-m" value="@media (--breakpoint-medium) {&#10;    $END$&#10;}&#10;" description="@media (--breakpoint-medium)" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
     </context>
   </template>
   <template name="@m-l" value="@media (--breakpoint-large) {&#10;    $END$&#10;}&#10;" description="@media (--breakpoint-large)" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
     </context>
   </template>
   <template name="@m." value=".$classname$ {&#10;    $END$&#10;}&#10;@media (--breakpoint-not-small) {&#10;    .$classname$ {&#10;    }&#10;}&#10;&#10;@media (--breakpoint-medium) {&#10;    .$classname$ {&#10;    }&#10;}&#10;&#10;@media (--breakpoint-large) {&#10;    .$classname$ {}&#10;}&#10;" description="class in all media rules in the tachyons style" toReformat="false" toShortenFQNames="true">
     <variable name="classname" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
     </context>
   </template>
-  <template name=".skin" value="/* :root { --$color$: #$hexcode$; } */&#10;.$color$ { color: var(--$color$); }&#10;.bg-$color$ { background-color: var(--$color$); }&#10;.b--$color$ { border-color: var(--$color$); }&#10;.hover-$color$:hover, &#10;.hover-$color$:focus { color: var(--$color$); }&#10;" description="create a set of classes for a given color" toReformat="false" toShortenFQNames="true">
+  <template name=".skin" value="/* :root { --$color$: $hexcode$; } */&#10;.$color$ { color: var(--$color$); }&#10;.bg-$color$ { background-color: var(--$color$); }&#10;.b--$color$ { border-color: var(--$color$); }&#10;.hover-$color$:hover, &#10;.hover-$color$:focus { color: var(--$color$); }&#10;" description="create a set of classes for a given color" toReformat="false" toShortenFQNames="true">
     <variable name="color" expression="lowercaseAndDash(String)" defaultValue="&quot;color&quot;" alwaysStopAt="true" />
     <variable name="hexcode" expression="complete()" defaultValue="&quot;#ffffff&quot;" alwaysStopAt="true" />
     <context>
       <option name="CSS_RULESET_LIST" value="true" />
+    </context>
+  </template>
+  <template name=".tdn" value="text-decoration: none;&#10;$END$" description="text-decoration: none;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
     </context>
   </template>
 </templateSet>
