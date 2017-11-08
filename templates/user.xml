@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="chipt" value="children: PropTypes.oneOfType([&#10;    PropTypes.arrayOf(PropTypes.node),&#10;    PropTypes.node&#10;]).isRequired$END$&#10;    " description="children prop-types" toReformat="false" toShortenFQNames="true">
+  <template name="chipt" value="children: PropTypes.oneOfType([&#10;    PropTypes.arrayOf(PropTypes.node),&#10;    PropTypes.node&#10;]).isRequired$END$&#10;    " description="children prop-types" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
