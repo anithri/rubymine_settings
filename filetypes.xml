@@ -3,10 +3,10 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".eslint" type="JSON" />
+      <mapping pattern=".reduxrc" type="JSON" />
       <mapping ext="reduxrc" type="JSON" />
       <mapping ext="sample" type="JSON" />
       <mapping ext="blueprintrc" type="JSON" />
-      <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
       <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="test,js" type="PLAIN_TEXT" />
