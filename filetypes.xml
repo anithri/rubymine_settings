@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="__name__/*" type="EJS" />
+      <mapping pattern="blueprints/**/files/**/*.js" type="EJS" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".reduxrc" type="JSON" />
       <mapping pattern=".eslint" type="JSON" />
+      <mapping pattern=".reduxrc" type="JSON" />
       <mapping ext="reduxrc" type="JSON" />
       <mapping ext="sample" type="JSON" />
       <mapping ext="blueprintrc" type="JSON" />
+      <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern="operations" type="PLAIN_TEXT" />
       <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="test,js" type="PLAIN_TEXT" />
-      <mapping pattern="__name__/*" type="EJS" />
     </extensionMap>
   </component>
 </application>
