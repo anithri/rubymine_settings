@@ -8,6 +8,7 @@
       <mapping ext="sample" type="JSON" />
       <mapping ext="blueprintrc" type="JSON" />
       <mapping pattern="operations" type="PLAIN_TEXT" />
+      <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="test,js" type="PLAIN_TEXT" />
