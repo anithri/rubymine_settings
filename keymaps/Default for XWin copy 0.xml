@@ -3,6 +3,9 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
