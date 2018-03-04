@@ -49,4 +49,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name=".theme" value=".$ENDTheme .primary .background,&#10;.$ENDTheme .primary.background,&#10;.$ENDTheme.primary.background {&#10;&#10;}" description="theme combinartion" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+    </context>
+  </template>
 </templateSet>
