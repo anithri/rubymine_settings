@@ -6,4 +6,10 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
+  <template name="cl" value="console.log(&quot;$CONTENT$: &quot;, $CONTENT$)&#10;" description="console.log(&quot;item&quot;,item);" toReformat="true" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
