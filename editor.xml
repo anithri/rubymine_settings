@@ -1,7 +1,6 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="13" />
-    <option name="FONT_SCALE" value="1.0833334" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
@@ -17,5 +16,26 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\bdeprecate\b.*" />
+    <pattern useCustomColors="true" pattern="\b(um+|h?uh+|wtf)\b.*">
+      <option name="FOREGROUND" value="9310ff" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="9310ff" />
+    </pattern>
+    <pattern icon="question" pattern="\b(verify|check)\b.+" />
+    <pattern icon="important" useCustomColors="true" pattern="\b(invent|implement)\b.*">
+      <option name="FOREGROUND" value="9310ff" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="3c3f41" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <filter name="wok">
+      <pattern index="5" />
+      <pattern index="2" />
+      <pattern index="1" />
+      <pattern index="4" />
+      <pattern index="0" />
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
