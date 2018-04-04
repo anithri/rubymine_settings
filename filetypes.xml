@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".css" type="CSS" />
       <mapping pattern="__name__/*" type="EJS" />
       <mapping pattern="*.ejs.t" type="EJS" />
       <mapping pattern=".gitignore_global" type="Git file" />
