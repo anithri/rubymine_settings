@@ -55,4 +55,5 @@
       <option name="CSS_RULESET_LIST" value="true" />
     </context>
   </template>
+  <template name="delta" value="∆" description="delta character" toReformat="false" toShortenFQNames="true" />
 </templateSet>
