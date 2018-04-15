@@ -1,0 +1,21 @@
+<application>
+  <component name="InjectorSettings" version="1">
+    <injections ignore-shortcut-case="true">
+      <template shortcut="%%" usages="0" keypresses-saved="0">&lt;% | %&gt;</template>
+      <template shortcut="%=" usages="0" keypresses-saved="0">&lt;%= | %&gt;</template>
+      <template shortcut="%-" usages="0" keypresses-saved="0">&lt;%- | -%&gt;</template>
+      <template shortcut="##" usages="0" keypresses-saved="0">&lt;%# | %&gt;</template>
+      <template shortcut="%i" usages="0" keypresses-saved="0">&lt;% if | %&gt;</template>
+      <template shortcut="%u" usages="0" keypresses-saved="0">&lt;% unless | %&gt;</template>
+      <template shortcut="%l" usages="0" keypresses-saved="0">&lt;% else %&gt;</template>
+      <template shortcut="%e" usages="0" keypresses-saved="0">&lt;% end %&gt;</template>
+      <template shortcut="%f" usages="0" keypresses-saved="0">&lt;% for | %&gt;</template>
+      <template shortcut="%t" usages="0" keypresses-saved="0">&lt;%= t('|') %&gt;</template>
+      <template shortcut="%a" usages="0" keypresses-saved="0">&lt;%= asset_path('|') %&gt;</template>
+      <template shortcut="%d" usages="0" keypresses-saved="0">&lt;%# TODO: | %&gt;</template>
+    </injections>
+    <string-inject shortcut="##" force-double-quotes="true" usages="0" keypresses-saved="0" />
+    <total-stats usages="0" keypresses-saved="0" />
+    <param name="show-stats">false</param>
+  </component>
+</application>
