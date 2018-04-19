@@ -160,6 +160,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/activemodel-5.2.0.rc2/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-associations (v0.2.0, RVM: ruby-2.4.1 [modelInventory]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/activemodel-associations-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/activemodel-associations-0.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/activemodel-associations-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/activemodel-associations-0.2.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="activemodel-serializers-xml (v1.0.2, RVM: ruby-2.4.1 [modelInventory]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/activemodel-serializers-xml-1.0.2/lib" />
