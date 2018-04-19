@@ -4766,6 +4766,20 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="redcarpet (v3.4.0, RVM: ruby-2.4.1 [modelInventory]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/redcarpet-3.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/redcarpet-3.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/redcarpet-3.4.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/redcarpet-3.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/redcarpet-3.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/redcarpet-3.4.0/bin" />
+      </SOURCES>
+    </library>
     <library name="request_store (v1.4.0, RVM: ruby-2.4.1 [modelInventory]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/request_store-1.4.0/lib" />
