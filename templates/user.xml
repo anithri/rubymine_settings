@@ -1,59 +1,7 @@
 <templateSet group="user">
-  <template name="recon" value="constructor (props) {&#10;  super(props)&#10;  $END$&#10;  // this.myFunc = this.myFunc.bind(this)&#10;}" description="constructor in react style" toReformat="false" toShortenFQNames="true">
+  <template name="cx" value="import cx from 'classnames';" description="cx() for CSS" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="rebind" value="this.$SELECTION$ = this.$SELECTION$.bind(this)&#10;$END$" description="this.myFunc = this.myFunc.bind(this)" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="pts" value="PropTypes.string$END$" description="PropTypes.string" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ptsr" value="PropTypes.string.isRequired$END$" description="PropTypes.string.isRequired" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ptb" value="PropTypes.bool" description="PropTypes.bool" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ptbr" value="PropTypes.bool.isRequired" description="PropTypes.bool.isRequired" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ptf" value="PropTypes.func" description="PropTypes.func" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="pta" value="PropTypes.arrayOf($END$)" description="PropTypes.arrayOf()" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ptas" value="PropTypes.arrayOf(PropTypes.string)$END$" description="PropTypes.arrayOf(PropTypes.string)" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ptasr" value="PropTypes.arrayOf(PropTypes.string).isRequired$END$" description="PropTypes.arrayOf(PropTypes.string).isRequired" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name=".theme" value=".$ENDTheme .primary .background,&#10;.$ENDTheme .primary.background,&#10;.$ENDTheme.primary.background {&#10;&#10;}" description="theme combinartion" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-    </context>
-  </template>
-  <template name="delta" value="∆" description="delta character" toReformat="false" toShortenFQNames="true" />
 </templateSet>
