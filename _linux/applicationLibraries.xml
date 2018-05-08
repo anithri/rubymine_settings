@@ -4463,11 +4463,9 @@
     </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.4.2 [abstractGame]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/nio4r-2.3.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@global/gems/nio4r-2.3.1/lib" />
       </SOURCES>
     </library>
@@ -5117,11 +5115,9 @@
     </library>
     <library name="puma (v3.11.4, RVM: ruby-2.4.2 [abstractGame]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@abstractGame/gems/puma-3.11.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@abstractGame/gems/puma-3.11.4/lib" />
       </SOURCES>
     </library>
