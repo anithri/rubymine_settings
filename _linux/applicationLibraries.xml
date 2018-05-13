@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/graphql" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="actioncable (v5.2.0, RVM: ruby-2.4.1 [modelInventory]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@modelInventory/gems/actioncable-5.2.0/lib" />
