@@ -22,7 +22,6 @@
       <mapping pattern="isCommited" type="PLAIN_TEXT" />
       <mapping ext="test,js" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
-      <mapping pattern=".css" type="PostCSS" />
     </extensionMap>
   </component>
 </application>
