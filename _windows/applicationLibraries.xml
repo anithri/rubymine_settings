@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="puppeteer-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
