@@ -4,24 +4,24 @@
       <mapping pattern=".css" type="CSS" />
       <mapping pattern="__name__/*" type="EJS" />
       <mapping pattern="*.ejs.t" type="EJS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".reduxrc" type="JSON" />
       <mapping pattern=".eslint" type="JSON" />
       <mapping ext="sample" type="JSON" />
       <mapping ext="reduxrc" type="JSON" />
       <mapping ext="blueprintrc" type="JSON" />
       <mapping pattern="operations" type="PLAIN_TEXT" />
+      <mapping pattern="isReadyToDeploy" type="PLAIN_TEXT" />
+      <mapping pattern="angleToPoint" type="PLAIN_TEXT" />
+      <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=",env" type="PLAIN_TEXT" />
       <mapping pattern="isCorrectStage" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=",env" type="PLAIN_TEXT" />
-      <mapping pattern="angleToPoint" type="PLAIN_TEXT" />
-      <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="assets" type="PLAIN_TEXT" />
       <mapping pattern="isCommited" type="PLAIN_TEXT" />
-      <mapping pattern=",gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="isReadyToDeploy" type="PLAIN_TEXT" />
       <mapping ext="test,js" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>

@@ -11,6 +11,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/4winds" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="SHOW_TAG_NAMES" value="true" />
   </component>
 </application>
